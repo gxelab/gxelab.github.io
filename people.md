@@ -5,8 +5,7 @@ nav_order: 2
 permalink: /people/
 ---
 
-### Hong Zhang, PhD (张宏)
-Email: {{ site.mail }}
+### Hong Zhang, PhD
 
-### Yue Chang(常月)
+### Yue Chang
 
