@@ -5,7 +5,11 @@ nav_order: 2
 permalink: /people/
 ---
 
-### Hong Zhang, PhD
+### PI
+Hong Zhang
 
-### Yue Chang
+### Graduate students
+Yue Chang
+
+
 
