@@ -5,11 +5,9 @@ nav_order: 2
 permalink: /people/
 ---
 
-### PI
-Hong Zhang
+### Hong Zhang
+hong_zhang@lzu.edu.cn
 
-### Graduate students
-Yue Chang
-
+### Yue Chang
 
 
