@@ -1,8 +1,8 @@
 ---
-title: "Programming"
-nav_order: 4
-parent: Misc
 layout: default
+title: Programming
+parent: Misc
+nav_order: 4
 ---
 
 
