@@ -5,7 +5,11 @@ parent: Misc
 nav_order: 1
 ---
 
+<br/>
+
 ### 研究生基本知识和技能学习指南
+
+<br/>
 
 基础知识和编程能力是开展科学研究的必备条件，这里结合我们的研究，推荐一些相关的学习内容和资源，精力有限，这些资源不一定是最理想的，后续会逐步完善。
 
@@ -87,6 +91,11 @@ R语言进阶
 分子进化方面只推荐下面这一本书，从基本到原理到常用软件的算法写的非常详细，仅看前几章就让人受益匪浅：
 
 - [Molecular Evolution: A Statistical Approach](http://abacus.gene.ucl.ac.uk/MESA/) by Ziheng Yang
+
+以下是多位专家联合编写的图书，内容较新，并且涉及很多应用，可以作为参考：
+
+- [Phylogenetics in the Genomic Era](https://hal.inria.fr/PGE/)
+- [Handbook of Statistical Genomics, 4th Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119487845) （此书好像没有开放获取的版本，看学校有没有买了:( ）
 
 
 
