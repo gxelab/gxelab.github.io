@@ -95,7 +95,7 @@ R语言进阶
 以下是多位专家联合编写的图书，内容较新，并且涉及很多应用，可以作为参考：
 
 - [Phylogenetics in the Genomic Era](https://hal.inria.fr/PGE/)
-- [Handbook of Statistical Genomics, 4th Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119487845) （此书好像没有开放获取的版本，看学校有没有买了:( ）
+- [Handbook of Statistical Genomics, 4th Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119487845) （此书好像没有开放获取的版本，看学校有没有买了）
 
 
 
