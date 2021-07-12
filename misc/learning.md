@@ -67,12 +67,11 @@ R语言进阶
 
 
 
-##### 数学
+##### 概率统计
 
 应该尽量在本科阶段学习高等数学，线性代数，概率论和数理统计；如果只学了高数也没关系，抽时间自学另外两门课就可以了。除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅：
 
 - 白话统计 （用通俗易懂的语言介绍常用的统计学方法）
-- [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) （有国内出版的的影印版）
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
