@@ -21,6 +21,7 @@ nav_order: 1
 
 我们的学习的目的只是为了使用Linux运行一些专业的生物信息学软件，利用R或者python做数据分析，而不是成为专业的Linux系统管理员或者工程师，因此只需要有基本知识并了解常用的命令即可。相关的网络资源有很多，比如：
 
+- Bilibili搜Linux，点赞过万的教程都还不错
 - [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/linux_basic/linux_basic.php) 基础学习篇 （看前三部分即可）
 - 中国大学MOOC：Linux系统管理
 
@@ -37,6 +38,7 @@ R语言入门
 - An Introduction to R ([HTML](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  [PDF](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf), [EPUB](https://cran.r-project.org/doc/manuals/r-release/R-intro.epub))（官方简介；推荐先看这个）
 - [R for Data Science](https://r4ds.had.co.nz/index.html) （用当下流行的package介绍R；推荐后看）
 - [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) （可选看）
+- Bilibili: "R语言入门与数据分析"
 
 R语言绘图
 
@@ -59,9 +61,9 @@ R语言进阶
 
 学校应该有相关的课程，但是可以参考这些网络资源作为辅助或者提前了解：
 
-- [Coursera - 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku) （高歌、魏丽萍老师；北京大学）
-- [基因组学分析](http://3d-genome.life/?page_id=7) （李程老师；北京大学）
-- 中国大学MOOC - 生物信息学（魏天迪等四位老师；山东大学）
+- [Coursera - 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku) （高歌、魏丽萍老师）
+- [基因组学分析](http://3d-genome.life/?page_id=7) （李程老师）
+- 中国大学MOOC - 生物信息学（魏天迪等四位老师）
 
 
 
@@ -75,7 +77,7 @@ R语言进阶
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
 
-另外，最近深度学习在生物学中的应用越来越多，感兴趣的话可以自己找资料学习。
+另外，最近深度学习在生物学中的应用越来越多，感兴趣的话可以自己找资料学习。更多相关图书请看本站Books页面。
 
 
 
@@ -83,16 +85,16 @@ R语言进阶
 
 演化生物学的理论由于需要比较多的概率和统计知识，大学里面的课程一般都不怎么深入，或者很难在一学期的课程里讲明白，好在这一领域的前辈们写的书足够的详细。
 
-群体遗传学方面，推荐下面这几本书。第一本书是简介性的（也有一定难度），跟其他这一主题的教材相比，写的更加流畅，容易理解。第二本书更加详细，可以作为进一步学习的参考。
+群体遗传学方面，推荐下面这几本书。第一本书是简介性的（也有一定难度），跟其他这一主题的教材相比，写的更加流畅，容易理解。第二本书更加详细，可以作为进一步学习的参考。如果想看更理论一些的书可以看本站Books页面。
 
 - [An Introduction to Population Genetics: Theory and Applications](https://global.oup.com/ushe/product/an-introduction-to-population-genetics-9781605351537) by Rasmus Nielsen and Montgomery Slatkin 
 - [Theoretical Evolutionary Genetics](https://felsenst.github.io/pgbook/pgbook.html) by Joseph Felsenstein
 
-分子进化方面只推荐下面这一本书，从基本到原理到常用软件的算法写的非常详细，仅看前几章就让人受益匪浅：
+分子进化方面只推荐下面这一本书，从基本的理论知识到常用软件的算法写的非常详细，仅看前几章就让人受益匪浅。不论是学习分子进化的知识还是只想了解一下PAML、HyPhy等工具的原理，都很有帮助：
 
 - [Molecular Evolution: A Statistical Approach](http://abacus.gene.ucl.ac.uk/MESA/) by Ziheng Yang
 
-以下是多位专家联合编写的图书，内容较新，并且涉及很多应用，可以作为参考：
+以下是领域内多位专家联合编写的分子进化和群体遗传学方面的手册，内容较新，并且涉及很多近年出现的应用，可以作为参考：
 
 - [Phylogenetics in the Genomic Era](https://hal.inria.fr/PGE/)
 - [Handbook of Statistical Genomics, 4th Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119487845) （此书好像没有开放获取的版本，看学校有没有买了）
@@ -103,4 +105,4 @@ R语言进阶
 
 ##### 友情链接
 
-[Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) （北京大学高歌老师组的研究生培养方案）
+[Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) （高歌老师组的研究生培养方案）
