@@ -29,3 +29,9 @@ There are many reference books on linux:
 - Linux Bible
 - Linux Administration: A Beginner's Guide
 - How Linux Works: What Every Superuser Should Know
+
+
+
+-----
+
+© 2021 GxE Lab

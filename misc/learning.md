@@ -105,3 +105,9 @@ R语言进阶
 ##### 友情链接
 
 [Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) （高歌老师组的研究生培养方案）
+
+
+
+-----
+
+© 2021 GxE Lab
