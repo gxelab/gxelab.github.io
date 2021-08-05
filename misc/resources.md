@@ -22,6 +22,32 @@ nav_order: 5
 
 
 
+#### Genome Browser
+
+- [UCSC Genome Browser](https://genome.ucsc.edu/)
+
+
+
+#### High quality genome annotations
+
+- [Ensembl Genomes](https://ensemblgenomes.org/)
+- [Eukaryotic and genomes annotated at NCBI](Eukaryotic genomes annotated at NCBI)
+
+
+
+#### Journals in Ecology and Evolution
+
+- [Trends in Ecology and Evolution](https://www.sciencedirect.com/journal/trends-in-ecology-and-evolution)
+- [Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/journal/ecolsys)
+- [Molecular Biology and Evolution](https://academic.oup.com/mbe)
+- [Nature Ecology & Evolution](https://www.nature.com/natecolevol/)
+- [Ecology Letters](https://onlinelibrary.wiley.com/journal/14610248)
+- [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x)
+- [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X)
+- ...
+
+
+
 #### Website
 
 - [Explain Shell](https://explainshell.com/)
