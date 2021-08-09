@@ -8,6 +8,10 @@ permalink: /contact/
 ### Email
 hong_zhang@lzu.edu.cn
 
+#### Phone/Wechat
+
+18813027238
+
 ### Address
 Institute of Innovation Ecology<br/>
 Room 104, Xiuyun Building, Lanzhou University<br/>
