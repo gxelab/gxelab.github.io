@@ -14,7 +14,19 @@ If you are interested in joining the group as a master/PhD student or postdoctor
 
 We also have some projects for undergraduate students. Please contact the PI directly if you want to carry out your graduation project in our group. 
 
-A note on the abbreviation of our group name: "GxE" stands for the intersection between Functional <ins>G</ins>enomics and <ins>E</ins>volution/<ins>E</ins>cology.
+
+
+A note on the abbreviation of our group name: "GxE" stands for the intersection between Functional <ins>G</ins>enomics, <ins>E</ins>cology, and <ins>E</ins>volution (maybe $$G\times E^2$$ is a better choice!).
+
+
+
+> Research initiatives in ecology and evolution have periodically dated but nevery married.
+>
+>  Andrew P. Hendry, in preface of *Eco-evolutionary in dynamics*
+
+> The perceived difference in timescales over which ecological and evolutionary processes act has led to the de facto intellectual divorce of the two — their apparent marriage in the many academic departments entitled ‘Ecology and Evolution’ persisting primarily in name alone.
+>
+> Bergelson, Kreitman, Petrov, et al. eLife 2021;10:e67646.
 
 
 
