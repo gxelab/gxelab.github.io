@@ -8,7 +8,7 @@ nav_order: 1
 
 <br/>
 
-Welcome to GxE Lab. We study the function and evolution of cis-regulatory elements and trans-regulatory factors involved in gene expression regulation, and the role of gene expression variation in genome evolution and environmental adaption.
+Welcome to GxE<sup>2</sup> Lab. We study the function and evolution of cis-regulatory elements and trans-regulatory factors involved in gene expression regulation, and the role of gene expression variation in genome evolution and environmental adaption.
 
 If you are interested in joining the group as a master/PhD student or postdoctoral fellow, please do not hesitate to contact us (hong_zhang@lzu.edu.cn).
 
@@ -16,9 +16,7 @@ We also have some projects for undergraduate students. Please contact the PI dir
 
 
 
-A note on the abbreviation of our group name: "GxE" stands for the intersection between Functional <ins>G</ins>enomics, <ins>E</ins>cology, and <ins>E</ins>volution (maybe $G\times E^2$ is a better choice!).
-
-
+A note on the abbreviation of our group name: "GxE<sup>2</sup>" stands for the intersection between Functional <ins>G</ins>enomics, <ins>E</ins>cology, and <ins>E</ins>volution. One reason is that we want to make a difference to the following situation:
 
 > Research initiatives in ecology and evolution have periodically dated but nevery married.
 >
