@@ -16,7 +16,7 @@ We also have some projects for undergraduate students. Please contact the PI dir
 
 
 
-A note on the abbreviation of our group name: "GxE" stands for the intersection between Functional <ins>G</ins>enomics, <ins>E</ins>cology, and <ins>E</ins>volution (maybe $$G\times E^2$$ is a better choice!).
+A note on the abbreviation of our group name: "GxE" stands for the intersection between Functional <ins>G</ins>enomics, <ins>E</ins>cology, and <ins>E</ins>volution (maybe $G\times E^2$ is a better choice!).
 
 
 
