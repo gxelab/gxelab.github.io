@@ -25,7 +25,7 @@ nav_order: 1
 
 ##### R
 
-R语言在统计分析和图形化展示方面具有独到的优势，在生物信息学和基因组学研究中广泛应用，我们必须对R语言和常用的package有足够的了解，才能在将来的工作中得心应手。中文教程可参考《R语言数据分析与可视化从入门到精通》，虽然书是最近出版的，但是其中讲到部分包已经有些过时可以略过。还有很多网络资源可以利用：
+R语言在统计分析和图形化展示方面具有独到的优势，在生物信息学和基因组学研究中广泛应用，我们必须对R语言和常用的package有足够的了解，才能在将来的工作中得心应手。中文教程可参考《R语言之书-编程与统计》(英文版书名为The Book of R: A First Course in Programming and Statistics)。还有很多网络资源可以利用：
 
 R语言入门
 
@@ -47,6 +47,22 @@ R语言进阶
 - `data.table`
 - `ggplot2`
 - `tidyverse`系列 - `dplyr` + `tidyr` + `readr`等
+
+<br/>
+
+##### Python
+
+网上有无数免费的python学习资源。如果跟着书学的话，[这里](https://nostarch.com/catalog/python)有几本不错的入门书籍，包括：
+
+- Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
+- Real-World Python: A Hacker's Guide to Solving Problems with Code
+
+专门讲如何用python做数据分析的书包括：
+
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- Data Science from Scratch: First Principles with Python (2nd)
+
+[JupyterLab](https://jupyter.org/)使得用python做数据分析更加方便。
 
 <br/>
 
@@ -103,5 +119,5 @@ R语言进阶
 
 -----
 
-© 2021 GxE Lab
+© 2021 GxE<sup>2</sup> Lab
 
