@@ -74,16 +74,28 @@ R语言进阶
 - [基因组学分析](http://3d-genome.life/?page_id=7) （李程老师）
 - 中国大学MOOC - 生物信息学（魏天迪等四位老师）
 
+一些不错的参考书：
+
+- Bioinformatics and Functional Genomics （中文书名《生物信息学与功能基因组学》第三版）
+- Biological sequence analysis - Probabilistic models of proteins and nucleic acids
+- 生物信息学（第二版，樊龙江主编；内容全面，但限于篇幅有些内容比较简略）
+
 <br/>
 
 ##### 概率统计
 
-应该尽量在本科阶段学习高等数学，线性代数，概率论和数理统计；如果只学了高数也没关系，抽时间自学另外两门课就可以了。除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅：
+应该尽量在本科阶段学习高等数学，线性代数，概率论和数理统计；如果只学了高数也没关系，抽时间自学另外两门课就可以了。可以从这几本书开始：
 
-- 白话统计 （用通俗易懂的语言介绍常用的统计学方法）
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- A First Course in Probability （中文书名《概率论基础教程》）
+- Statistical Inference, 2nd edition （George Casella, Roger L. Berger；中文书名《统计推断》）
+- Introduction to Probability Models （中文书名《应用随机过程：概率模型导论》）
+
+除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅：
+
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) （包含大量如何在R中实现的例子）
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
+- 白话统计 （用通俗易懂的语言介绍常用的统计学方法）
 
 另外，最近深度学习在生物学中的应用越来越多，感兴趣的话可以自己找资料学习。更多相关图书请看本站Books页面。
 
