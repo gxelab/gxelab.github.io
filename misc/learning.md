@@ -123,9 +123,10 @@ R语言进阶
 
 ----
 
-##### 其他培养方案供参考
+##### 相关资源
 
-[Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) （高歌老师组的研究生培养方案）
+- [Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) （高歌老师组的研究生培养方案）
+- 本院赵序茅老师[关于读研究生的一些建议](http://blog.sciencenet.cn/blog-990233-1307343.html)
 
 
 

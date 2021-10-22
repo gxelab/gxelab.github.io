@@ -23,3 +23,23 @@ MSc Student
 
 Undergraduate student
 
+
+
+### Dongxu Li (2021.10-)
+
+<img src="../photo/LDX.jpg" alt="photo" width="100"/><br/>
+
+Undergraduate student
+
+
+
+### Xi Zhen (2021.10-)
+
+Undergraduate student
+
+
+
+### Chao Yao (2021.10-)
+
+Undergraduate student
+
