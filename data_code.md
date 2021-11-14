@@ -9,6 +9,7 @@ permalink: /datacode/
 ### Code
 
 - [In-house scripts](https://github.com/gxelab/scripts)
+- [Miscellaneous tutorials on Linux, R, and Bioinformatics](https://gitee.com/mt1022/bioinfo_tutorials)
 
 ### Dataset
 
