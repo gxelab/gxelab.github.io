@@ -22,5 +22,11 @@ nav_order: 3
 - [Probability Models for DNA Sequence Evolution](https://www.springer.com/gp/book/9780387781686) by Richard Durrett
 - Coalescent Theory: An Introduction By John Wakeley
 
+<br/>
+
+#### Other lists of books on Statistics, Evolution, and Bioinformatics
+
+- https://sgsa.berkeley.edu/current_students/books/
+
 
 

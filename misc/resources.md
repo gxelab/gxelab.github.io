@@ -7,7 +7,9 @@ nav_order: 5
 
 
 
-#### File format
+#### Data format
+
+Frequently used formats:
 
 - [BAM](https://samtools.github.io/hts-specs/SAMv1.pdf)
 - [BED](https://genome.ucsc.edu/FAQ/FAQformat.html#format1)
@@ -19,6 +21,27 @@ nav_order: 5
 - [MAF](https://genome.ucsc.edu/FAQ/FAQformat.html#format5)
 - [SAM](https://samtools.github.io/hts-specs/SAMv1.pdf)
 - [VCF](https://samtools.github.io/hts-specs/VCFv4.2.pdf)
+
+Other relavant information:
+
+- http://gmod.org/wiki/Glossary
+- https://genome.ucsc.edu/FAQ/FAQformat.html
+- https://m.ensembl.org/info/website/upload/gff.html
+
+
+
+#### Software manuals
+
+NGS data
+
+- [hts-specs, samtools, bcftools](https://samtools.github.io/)
+- [cutadapt](https://cutadapt.readthedocs.io/en/stable/)
+- [STAR](https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf)
+- [featureCounts](http://subread.sourceforge.net/SubreadUsersGuide.pdf)
+- [hisat2](http://daehwankimlab.github.io/hisat2/manual/)
+- [stringtie](http://ccb.jhu.edu/software/stringtie/)
+- [bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
+- [pysam](https://pysam.readthedocs.io/en/latest/index.html)
 
 
 
@@ -60,13 +83,3 @@ nav_order: 5
 
 - [Explain Shell](https://explainshell.com/)
 - [Decoding SAM flags](https://broadinstitute.github.io/picard/explain-flags.html)
-
-
-
-#### Software manuals
-
-NGS data
-
-- [cutadapt](https://cutadapt.readthedocs.io/en/stable/)
-- [STAR](https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf)
-
