@@ -30,7 +30,7 @@ Other relavant information:
 
 
 
-#### Software manuals
+#### Software manuals ([Nutstore](https://www.jianguoyun.com/p/DSf1oX4Qu_vMCRi_i6IE) copy)
 
 NGS data
 
