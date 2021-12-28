@@ -24,6 +24,8 @@ Frequently used formats:
 - [SAM](https://samtools.github.io/hts-specs/SAMv1.pdf)
 - [VCF](https://samtools.github.io/hts-specs/VCFv4.2.pdf)
 
+
+
 Other relavant information:
 
 - http://gmod.org/wiki/Glossary
@@ -65,7 +67,7 @@ NGS data
 - [Explain Shell](https://explainshell.com/)
 - [Decoding SAM flags](https://broadinstitute.github.io/picard/explain-flags.html)
 
-
+<br/>
 
 ### Books and Journals
 
@@ -98,6 +100,9 @@ NGS data
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
 - [Deep Learning](https://www.deeplearningbook.org/)
+- [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
+
+
 
 #### Evolution and Ecology
 
@@ -107,13 +112,13 @@ NGS data
 - [Probability Models for DNA Sequence Evolution](https://www.springer.com/gp/book/9780387781686) by Richard Durrett
 - Coalescent Theory: An Introduction By John Wakeley
 
-<br/>
+
 
 #### Other lists of books on Statistics, Evolution, and Bioinformatics
 
-- https://sgsa.berkeley.edu/current_students/books/
+- [https://sgsa.berkeley.edu/current_students/books/](https://sgsa.berkeley.edu/current_students/books/)
 
-
+<br/>
 
 ### Programming
 
@@ -128,6 +133,8 @@ Learning resources:
 - [data.table](https://github.com/Rdatatable/data.table/wiki/Getting-started)
 - [Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html) and [GenomicFeatures](https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html)
 
+
+
 #### python
 
 Style guide: [PEP](https://www.python.org/dev/peps/pep-0008/), [Google](https://google.github.io/styleguide/pyguide.html)
@@ -138,6 +145,8 @@ Learning resources:
 - [pandas](https://pandas.pydata.org/)
 - [Real Python Tutorials](https://realpython.com/)
 
+
+
 #### Linux
 
 There are many reference books on linux:
@@ -147,3 +156,8 @@ There are many reference books on linux:
 - Linux Administration: A Beginner's Guide
 - How Linux Works: What Every Superuser Should Know
 
+
+
+-----
+
+© 2021 GxE<sup>2</sup> Lab

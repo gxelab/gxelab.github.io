@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Guide
+title: Learning
 nav_order: 7
 permalink: /learning/
 ---
@@ -121,11 +121,15 @@ R语言进阶
 
 
 
+<br/>
+
 ### 科研训练
 
 #### 学术交流
 
 - 如何准备学术报告的ppt：[Designing Effective Scientific Presentations](https://www.ibiology.org/professional-development/scientific-presentations/)
+
+
 
 #### 文献阅读
 
@@ -141,7 +145,6 @@ R语言进阶
 
 - [Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) （高歌老师组的研究生培养方案）
 - 本院赵序茅老师[关于读研究生的一些建议](http://blog.sciencenet.cn/blog-990233-1307343.html)
-- [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html) by Susan Holmes and Wolfgang Huber
 
 
 

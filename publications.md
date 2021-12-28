@@ -35,3 +35,10 @@ Duan Y<sup>#</sup>, Dou S<sup>#</sup>, Luo S<sup>#</sup>, **Zhang H**, Lu J\* (2
 ### 2016
 Wang Y, Luo J, **Zhang H**, Lu J\* (2016) MicroRNAs in the same clusters evolve to coordinately regulate functionally related genes. Molecular Biology and Evolution 33(9): 2232–2247.
 
+
+
+
+
+-----
+
+© 2021 GxE<sup>2</sup> Lab
