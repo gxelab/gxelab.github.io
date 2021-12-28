@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: Learning Guide
-parent: Misc 
-nav_order: 1
+nav_order: 7
+permalink: /learning/
 ---
 
 <br/>
@@ -118,6 +118,20 @@ R语言进阶
 
 - [Phylogenetics in the Genomic Era](https://hal.inria.fr/PGE/)
 - [Handbook of Statistical Genomics, 4th Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119487845) （此书好像没有开放获取的版本，看学校有没有买了）
+
+
+
+### 科研训练
+
+#### 学术交流
+
+- 如何准备学术报告的ppt：[Designing Effective Scientific Presentations](https://www.ibiology.org/professional-development/scientific-presentations/)
+
+#### 文献阅读
+
+- [How to (seriously) read a scientific paper](https://www.science.org/careers/2016/03/how-seriously-read-scientific-paper)
+- [How to read and understand a scientific paper: a guide for non-scientists](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/)
+- [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
 
 
 
