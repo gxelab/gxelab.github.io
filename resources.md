@@ -9,7 +9,7 @@ permalink: /resources/
 
 ### Slides
 
-- 2021-12-29 [Genomic methods and their applications in Ecology](https://www.jianguoyun.com/p/DUsfhJQQ146cBhjz2KME) (访问密码：S9ZxtV)
+- 2021-12-29 [Genomic methods and their applications in Ecology](https://www.jianguoyun.com/p/DRmPTB8Q146cBhjr56ME) (访问密码：dBQbfm)
 
 <br/>
 
