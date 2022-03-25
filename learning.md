@@ -105,8 +105,9 @@ R语言进阶
 
 演化生物学的理论由于需要比较多的概率和统计知识，大学里面的课程一般都不怎么深入，或者很难在一学期的课程里讲明白，好在这一领域的前辈们写的书足够的详细。
 
-群体遗传学方面，推荐下面这几本书。第一本书是简介性的（也有一定难度），跟其他这一主题的教材相比，写的更加流畅，容易理解。第二本书更加详细，可以作为进一步学习的参考。如果想看更理论一些的书可以看本站Books页面。
+群体遗传学方面，推荐下面这几本书。第二本书是简介性的（也有一定难度），跟其他这一主题的教材相比，写的更加流畅，容易理解。第三本书更加详细，可以作为进一步学习的参考。如果想看更理论一些的书可以看本站Books页面。
 
+- [Mathematical Population Genetics](https://link.springer.com/book/10.1007/978-0-387-21822-9) by Warren J. Ewens
 - [An Introduction to Population Genetics: Theory and Applications](https://global.oup.com/ushe/product/an-introduction-to-population-genetics-9781605351537) by Rasmus Nielsen and Montgomery Slatkin 
 - [Theoretical Evolutionary Genetics](https://felsenst.github.io/pgbook/pgbook.html) by Joseph Felsenstein
 

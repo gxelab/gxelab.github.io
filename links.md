@@ -107,6 +107,7 @@ NGS data
 #### Evolution and Ecology
 
 - [Molecular Evolution: A Statistical Approach](http://abacus.gene.ucl.ac.uk/MESA/) by Ziheng Yang
+- [Mathematical Population Genetics](https://link.springer.com/book/10.1007/978-0-387-21822-9) by Warren J. Ewens
 - [An Introduction to Population Genetics: Theory and Applications](https://global.oup.com/ushe/product/an-introduction-to-population-genetics-9781605351537) by Rasmus Nielsen & Montgomery Slatkin
 - [Theoretical Evolutionary Genetics](https://felsenst.github.io/pgbook/pgbook.html) by J. Felsenstein
 - [Probability Models for DNA Sequence Evolution](https://www.springer.com/gp/book/9780387781686) by Richard Durrett
