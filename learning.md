@@ -72,13 +72,13 @@ R语言进阶
 
 - [Coursera - 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku) （高歌、魏丽萍老师）
 - [基因组学分析](http://3d-genome.life/?page_id=7) （李程老师）
-- 中国大学MOOC - 生物信息学（魏天迪等四位老师）
+- [Coursera 生物信息学专项课程](https://www.coursera.org/specializations/bioinformatics)
 
 一些不错的参考书：
 
 - Bioinformatics and Functional Genomics （中文书名《生物信息学与功能基因组学》第三版）
 - Biological sequence analysis - Probabilistic models of proteins and nucleic acids
-- 生物信息学（第二版，樊龙江主编；内容全面，但限于篇幅有些内容比较简略）
+- 生物信息学（第二版，樊龙江主编）
 
 <br/>
 
