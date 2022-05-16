@@ -80,7 +80,7 @@ We also have some projects for undergraduate students. Please contact the PI dir
 
 - 邮件：hong_zhang@lzu.edu.cn
 
-- 微信/电话：18813027238
+- 微信：mth1022
 
 
 

@@ -8,9 +8,9 @@ permalink: /contact/
 ### Email
 hong_zhang@lzu.edu.cn
 
-#### Phone/Wechat
+#### Wechat
 
-18813027238
+mth1022
 
 ### Address
 Room 104, Xiuyun Buildinig<br/>
