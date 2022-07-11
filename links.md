@@ -100,7 +100,6 @@ NGS data
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
 - [Deep Learning](https://www.deeplearningbook.org/)
-- [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
 
 
 

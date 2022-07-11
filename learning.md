@@ -145,7 +145,9 @@ R语言进阶
 ##### 相关资源
 
 - [Guideline-for-Computational-Biology-and-Bioinformatics](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics) （高歌老师组的研究生培养方案）
-- 本院赵序茅老师[关于读研究生的一些建议](http://blog.sciencenet.cn/blog-990233-1307343.html)
+- [培养和锻炼成员的职业技能](http://3d-genome.life/)(李程老师分享的科研职业技能培训资料)
+- [HarvardX Biomedical Data Science Open Online Training](https://rafalab.github.io/pages/harvardx.html)
+- [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
 
 
 
