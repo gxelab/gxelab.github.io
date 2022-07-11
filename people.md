@@ -21,7 +21,7 @@ MSc Student
 
 ### Tianyu Lei (2021.09-)
 
-Undergraduate student
+MSc Student
 
 
 
@@ -33,15 +33,31 @@ Undergraduate student
 
 
 
-### Xi Zhen (2021.10-)
-
-Undergraduate student
-
-
-
 ### Chao Yao (2021.10-)
 
 Undergraduate student
+
+
+
+### Hebing Zhang (2022.05-)
+
+Undergraduate student
+
+
+
+### Xi Cheng (2022.06-)
+
+Undergraduate student
+
+
+
+
+
+### Alumini
+
+#### Xi Zhen (2021.10-2022.06)
+
+Former undergraduate student, now 
 
 
 
@@ -49,4 +65,4 @@ Undergraduate student
 
 -----
 
-© 2021 GxE<sup>2</sup> Lab
+© 2022 GxE<sup>2</sup> Lab
