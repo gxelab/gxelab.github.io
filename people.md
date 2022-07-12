@@ -55,9 +55,9 @@ Undergraduate student
 
 ### Alumini
 
-#### Xi Zhen (2021.10-2022.06)
+##### Xi Zhen (2021.10-2022.06)
 
-Former undergraduate student, now 
+Graduate student in Shanghai Jiao Tong University. Former undergraduate student in the lab.
 
 
 
