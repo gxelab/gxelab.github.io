@@ -30,8 +30,9 @@ R语言在统计分析和图形化展示方面具有独到的优势，在生物�
 R语言入门
 
 - An Introduction to R ([HTML](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  [PDF](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf), [EPUB](https://cran.r-project.org/doc/manuals/r-release/R-intro.epub))（官方简介；推荐先看这个）
-- [R for Data Science](https://r4ds.had.co.nz/index.html) （用当下流行的package介绍R；推荐后看）
+- **[R for Data Science](https://r4ds.had.co.nz/index.html)** （用当下流行的package介绍R；推荐后看）
 - [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) （可选看）
+- [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 
 R语言绘图
 
@@ -40,13 +41,17 @@ R语言绘图
 
 R语言进阶
 
-- [Advanced R](https://adv-r.hadley.nz/) (R语言的深入剖析，看一看没坏处)
+- **[Advanced R](https://adv-r.hadley.nz/)** (R语言的深入剖析，看一看没坏处)
 
-需要掌握的常用package
+需要掌握的常用第三方package
 
-- `data.table`
+- `tidyverse`系列 - `dplyr` + `tidyr` + `readr`+`readxl`等
 - `ggplot2`
-- `tidyverse`系列 - `dplyr` + `tidyr` + `readr`等
+- `data.table` (`dplyr+tidyr`和d`ata.table`二选一)
+
+R语言代码书写规范：
+
+- [The tidyverse style guide](https://style.tidyverse.org/)
 
 <br/>
 
@@ -64,6 +69,16 @@ R语言进阶
 
 [JupyterLab](https://jupyter.org/)使得用python做数据分析更加方便。
 
+需要掌握的常用第三方package
+
+- [numpy](https://numpy.org/doc/stable/user/index.html#user)
+- [pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+- [matplotlib](https://matplotlib.org/stable/tutorials/index.html)
+
+python代码书写规范
+
+- [Style Guide for Python Code](https://peps.python.org/pep-0008/)
+
 <br/>
 
 ##### 生物信息学
@@ -76,8 +91,8 @@ R语言进阶
 
 一些不错的参考书：
 
+- **Biological sequence analysis - Probabilistic models of proteins and nucleic acids**
 - Bioinformatics and Functional Genomics （中文书名《生物信息学与功能基因组学》第三版）
-- Biological sequence analysis - Probabilistic models of proteins and nucleic acids
 - 生物信息学（第二版，樊龙江主编）
 
 <br/>
@@ -92,12 +107,12 @@ R语言进阶
 
 除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅：
 
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) （包含大量如何在R中实现的例子）
+- **[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)** （包含大量如何在R中实现的例子）
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
-- 白话统计 （用通俗易懂的语言介绍常用的统计学方法）
+- **[Deep Learning](https://www.deeplearningbook.org/)**
 
-另外，最近深度学习在生物学中的应用越来越多，感兴趣的话可以自己找资料学习。更多相关图书请看本站Books页面。
+另外，最近深度学习在生物学中的应用越来越多，感兴趣的话可以自己找资料学习。
 
 <br/>
 
@@ -105,22 +120,22 @@ R语言进阶
 
 演化生物学的理论由于需要比较多的概率和统计知识，大学里面的课程一般都不怎么深入，或者很难在一学期的课程里讲明白，好在这一领域的前辈们写的书足够的详细。
 
-群体遗传学方面，推荐下面这几本书。第二本书是简介性的（也有一定难度），跟其他这一主题的教材相比，写的更加流畅，容易理解。第三本书更加详细，可以作为进一步学习的参考。如果想看更理论一些的书可以看本站Books页面。
+群体遗传学方面，推荐下面这几本书。前两本书是简介性的（也有一定难度），跟其他这一主题的教材相比，写的更加流畅，容易理解。第三本书更加详细，也更难，可以作为进一步学习的参考。
 
+- **[An Introduction to Population Genetics: Theory and Applications](https://global.oup.com/ushe/product/an-introduction-to-population-genetics-9781605351537)** by Rasmus Nielsen and Montgomery Slatkin 
+- **[Molecular Population Genetics](https://global.oup.com/academic/product/molecular-population-genetics-9780878939657)** by Matthew William Hahn
 - [Mathematical Population Genetics](https://link.springer.com/book/10.1007/978-0-387-21822-9) by Warren J. Ewens
-- [An Introduction to Population Genetics: Theory and Applications](https://global.oup.com/ushe/product/an-introduction-to-population-genetics-9781605351537) by Rasmus Nielsen and Montgomery Slatkin 
-- [Theoretical Evolutionary Genetics](https://felsenst.github.io/pgbook/pgbook.html) by Joseph Felsenstein
+- [Probability Models for DNA Sequence Evolution](https://www.springer.com/gp/book/9780387781686) by Richard Durrett
+- Coalescent Theory: An Introduction By John Wakeley
 
 分子进化方面只推荐下面这一本书，从基本的理论知识到常用软件的算法写的非常详细，仅看前几章就让人受益匪浅。不论是学习分子进化的知识还是只想了解一下PAML、HyPhy等工具的原理，都很有帮助：
 
-- [Molecular Evolution: A Statistical Approach](http://abacus.gene.ucl.ac.uk/MESA/) by Ziheng Yang
+- **[Molecular Evolution: A Statistical Approach](http://abacus.gene.ucl.ac.uk/MESA/)** by Ziheng Yang
 
 以下是领域内多位专家联合编写的分子进化和群体遗传学方面的手册，内容较新，并且涉及很多近年出现的应用，可以作为参考：
 
 - [Phylogenetics in the Genomic Era](https://hal.inria.fr/PGE/)
-- [Handbook of Statistical Genomics, 4th Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119487845) （此书好像没有开放获取的版本，看学校有没有买了）
-
-
+- [Handbook of Statistical Genomics, 4th Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119487845)
 
 <br/>
 
