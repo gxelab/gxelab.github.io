@@ -101,9 +101,16 @@ python代码书写规范
 
 应该尽量在本科阶段学习高等数学，线性代数，概率论和数理统计；如果只学了高数也没关系，抽时间自学另外两门课就可以了。可以从这几本书开始：
 
+概率
+
 - A First Course in Probability （中文书名《概率论基础教程》）
-- Statistical Inference, 2nd edition （George Casella, Roger L. Berger；中文书名《统计推断》）
 - Introduction to Probability Models （中文书名《应用随机过程：概率模型导论》）
+
+统计（后两本写得比较通俗易懂，一简一详）
+
+- Statistical Inference, 2nd edition （George Casella, Roger L. Berger；中文书名《统计推断》）
+- A Modern Introduction to Probability and Statistics: Understanding Why and How
+- **Modern Mathematical Statistics with Applications** (Jay L. Devore, Kenneth N. Berk, Matthew A. Carlton; 3rd, 2021)
 
 除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅：
 
