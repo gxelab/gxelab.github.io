@@ -92,6 +92,7 @@ python代码书写规范
 一些不错的参考书：
 
 - **Biological sequence analysis - Probabilistic models of proteins and nucleic acids**
+- [**Bioinformatics Algorithms**](https://www.bioinformaticsalgorithms.org/)
 - Bioinformatics and Functional Genomics （中文书名《生物信息学与功能基因组学》第三版）
 - 生物信息学（第二版，樊龙江主编）
 
@@ -112,10 +113,10 @@ python代码书写规范
 - A Modern Introduction to Probability and Statistics: Understanding Why and How
 - **Modern Mathematical Statistics with Applications** (Jay L. Devore, Kenneth N. Berk, Matthew A. Carlton; 3rd, 2021)
 
-除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅：
+除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅： 
 
-- **[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)** （包含大量如何在R中实现的例子）
-- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- [**An Introduction to Statistical Learning**](https://www.statlearning.com/) （包含大量如何在R中实现的例子）
+-  [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
 - **[Deep Learning](https://www.deeplearningbook.org/)**
 
