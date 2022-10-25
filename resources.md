@@ -7,10 +7,20 @@ permalink: /resources/
 
 ### Resources
 
-### Slides
+### Teaching
 
-- 2022-04-18 [Genomics (in Animal Ecology course)](https://www.jianguoyun.com/p/DUeXybkQ146cBhiC0rgEIAA) (访问密码：UxQPQR)
-- 2021-12-29 [Genomic methods and their applications in Ecology](https://www.jianguoyun.com/p/DRmPTB8Q146cBhjr56ME) (访问密码：dBQbfm)
+- 2022-10-28 Special Topics in Animal Ecology
+  - Part 1:  [Introduction to Genomics](https://www.jianguoyun.com/p/DfmjMzsQ146cBhiaxOAEIAA)  (code：D4XfB4)
+  - Part 2: [Introduction to Population Genetics](https://www.jianguoyun.com/p/DSGotNkQ146cBhifxOAEIAA)  (code：MgfyWW)
+  - Part 3: [Introduction to Functional Genomics](https://www.jianguoyun.com/p/Dahi7boQ146cBhilxOAEIAA) (code：N3J9Mx)
+
+- 2022-04-18 Special Topics in Animal Ecology
+  - Part 1: Introduction to Genomics
+  - Part 2: Introduction to Functional Genomics
+
+- 2021-12-29 Advanced Ecological Statistics
+  - Genomic methods and their applications in Ecology
+
 
 <br/>
 
