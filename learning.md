@@ -48,7 +48,7 @@ R语言进阶
 
 - `tidyverse`系列 - `dplyr` + `tidyr` + `readr`+`readxl`等
 - `ggplot2`
-- `data.table` (`dplyr+tidyr`和d`ata.table`二选一)
+- `data.table` (`dplyr+tidyr`和`data.table`二选一)
 
 R语言代码书写规范：
 
