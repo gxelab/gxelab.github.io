@@ -30,7 +30,8 @@ R语言在统计分析和图形化展示方面具有独到的优势，在生物�
 R语言入门
 
 - An Introduction to R ([HTML](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  [PDF](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf), [EPUB](https://cran.r-project.org/doc/manuals/r-release/R-intro.epub))（官方简介；推荐先看这个）
-- **[R for Data Science](https://r4ds.had.co.nz/index.html)** （用当下流行的package介绍R；推荐后看）
+- **[R for Data Science (2e)](https://r4ds.hadley.nz/)**（用当下流行的package介绍R；推荐后看）
+- [R for Data Science (1e)](https://r4ds.had.co.nz/index.html)
 - [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) （可选看）
 - [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 
