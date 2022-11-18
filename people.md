@@ -15,13 +15,13 @@ Email: hong_zhang@lzu.edu.cn <br/>
 ### Yue Chang (2021.09-)
 <img src="../photo/CY.jpg" alt="photo" width="100"/><br/>
 
-MSc Student
+MSc Student, College of Ecology
 
 
 
 ### Tianyu Lei (2021.09-)
 
-MSc Student
+MSc Student, College of Ecology
 
 
 
@@ -29,27 +29,55 @@ MSc Student
 
 <img src="../photo/LDX.jpg" alt="photo" width="100"/><br/>
 
-Undergraduate student
+Undergraduate student, School of Life Sciences
 
 
 
 ### Chao Yao (2021.10-)
 
-Undergraduate student
+Undergraduate student, Cuiying Honors College
 
 
 
 ### Hebing Zhang (2022.05-)
 
-Undergraduate student
+Undergraduate student, School of Life Sciences
 
 
 
 ### Xi Cheng (2022.06-)
 
-Undergraduate student
+Undergraduate student, School of Life Sciences
 
 
+
+### Ziyang Zhu (2022.09-)
+
+Undergraduate student, College of Ecology
+
+
+
+### Yinuo Xie (2022.09-)
+
+Undergraduate student, Cuiying Honors College
+
+
+
+### Longyu Yang (2022.11-)
+
+Undergraduate student, School of Life Sciences
+
+
+
+### Youyue Hu (2022.11-)
+
+Undergraduate student, Cuiying Honors College
+
+
+
+### Zihan Liao (2022.11-)
+
+Undergraduate student, School of Life Sciences
 
 
 

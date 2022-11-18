@@ -88,6 +88,7 @@ python代码书写规范
 
 - [Coursera - 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku) （高歌、魏丽萍老师）
 - [基因组学分析](http://3d-genome.life/?page_id=7) （李程老师）
+- [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/) (清华鲁志老师)
 - [Coursera 生物信息学专项课程](https://www.coursera.org/specializations/bioinformatics)
 
 一些不错的参考书：
