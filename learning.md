@@ -151,17 +151,23 @@ python代码书写规范
 
 ### 科研训练
 
+#### 文献阅读
+
+- [How to (seriously) read a scientific paper](https://www.science.org/careers/2016/03/how-seriously-read-scientific-paper)
+- [How to read and understand a scientific paper: a guide for non-scientists](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/)
+- [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
+
+
+
 #### 学术交流
 
 - 如何准备学术报告的ppt：[Designing Effective Scientific Presentations](https://www.ibiology.org/professional-development/scientific-presentations/)
 
 
 
-#### 文献阅读
+#### 学术写作
 
-- [How to (seriously) read a scientific paper](https://www.science.org/careers/2016/03/how-seriously-read-scientific-paper)
-- [How to read and understand a scientific paper: a guide for non-scientists](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/)
-- [Infographic: How to read a scientific paper](https://www.elsevier.com/connect/infographic-how-to-read-a-scientific-paper)
+- Scientific Writing and English for Academic Research ([416133001](https://chaosonglab.github.io/teaching/))
 
 
 
