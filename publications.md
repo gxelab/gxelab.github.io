@@ -5,7 +5,12 @@ nav_order: 3
 permalink: /publications/
 ---
 
+### 2022
+
+**Tianyu Lei**<sup>#</sup>, **Yue Chang**<sup>#</sup>, **Chao Yao**, **Hong Zhang** (2022) A systematic evaluation revealed that detecting translated non-canonical ORFs from ribosome profiling data remains challenging. bioRxiv 2022.12.11.520003; doi: https://doi.org/10.1101/2022.12.11.520003
+
 ### 2021
+
 Hu B<sup>#</sup>, Liu R<sup>#</sup>, Tang X<sup>#</sup>, Pan Y<sup>#</sup>, Wang M<sup>#</sup>, Tong Y<sup>#</sup>, Ye G<sup>#</sup>, Shen G<sup>#</sup>, Ying R<sup>#</sup>, Fu A, Li D, Zhao W, Peng J, Guo J, Men D, Yao X, Wang Y, **Zhang H**, Feng Z, Yu J, Chen L, Deng Z, Lu X, Zhang YP\*, Li Y\*, Liu B\*, Yu L\*, Li Y\*, Lu J\*, Liu T\* (2021) The concordance between the evolutionary trend and the clinical manifestation of the two SARS-CoV-2 variants. National Science Review. nwab073. [[Full Text](https://doi.org/10.1093/nsr/nwab073)]
 
 **Zhang H**, Wang Y, Wu X, Tang X, Wu C, Lu J\* (2021) Determinants of genome-wide distribution and evolution of uORFs in eukaryotes. Nature Communications. 12: 1076. [[Full Text](https://doi.org/10.1038/s41467-021-21394-y)]
