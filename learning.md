@@ -184,5 +184,5 @@ python代码书写规范
 
 -----
 
-© 2021 GxE<sup>2</sup> Lab
+© 2022 GxE Lab
 

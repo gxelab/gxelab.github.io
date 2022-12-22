@@ -160,4 +160,4 @@ There are many reference books on linux:
 
 -----
 
-© 2021 GxE<sup>2</sup> Lab
+© 2021 GxE Lab

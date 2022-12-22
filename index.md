@@ -4,11 +4,11 @@ title: Home
 nav_order: 1
 ---
 
-### Functional Genomics and Evolutionary Ecology Group
+### Functional Genomics × Evolutionary Ecology Lab
 
 <br/>
 
-Welcome to GxE<sup>2</sup> Lab. We study the function and evolution of cis-regulatory elements and trans-regulatory factors involved in gene expression regulation, and the role of gene expression variation in genome evolution and environmental adaption.
+Welcome to GxE Lab. We study the function and evolution of cis-regulatory elements and trans-regulatory factors involved in gene expression regulation, and the role of gene expression variation in genome evolution and environmental adaption.
 
 If you are interested in joining the group as a master/PhD student or postdoctoral fellow, please do not hesitate to contact us (hong_zhang@lzu.edu.cn).
 
@@ -84,22 +84,8 @@ We also have some projects for undergraduate students. Please contact the PI dir
 
 
 
-----
-
-A note on the abbreviation of our group name: "GxE<sup>2</sup>" stands for the intersection between Functional <ins>G</ins>enomics, <ins>E</ins>cology, and <ins>E</ins>volution. One reason is that we want to make a difference to the disappointing (貌合神离) relationship between Ecology and Evolution:
-
-> Research initiatives in ecology and evolution have periodically dated but nevery married.
->
-> Andrew P. Hendry, in preface of *Eco-evolutionary in dynamics*
-
-> The perceived difference in timescales over which ecological and evolutionary processes act has led to the de facto intellectual divorce of the two — their apparent marriage in the many academic departments entitled ‘Ecology and Evolution’ persisting primarily in name alone.
->
-> Bergelson, Kreitman, Petrov, et al. eLife 2021;10:e67646.
-
-
-
 
 
 -----
 
-© 2021 GxE<sup>2</sup> Lab
+© 2022 GxE Lab

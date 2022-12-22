@@ -41,4 +41,4 @@ permalink: /resources/
 
 -----
 
-© 2021 GxE<sup>2</sup> Lab
+© 2022 GxE Lab

@@ -93,4 +93,4 @@ Graduate student in Shanghai Jiao Tong University. Former undergraduate student 
 
 -----
 
-© 2022 GxE<sup>2</sup> Lab
+© 2022 GxE Lab
