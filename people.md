@@ -69,12 +69,6 @@ Undergraduate student, School of Life Sciences
 
 
 
-### Youyue Hu (2022.11-)
-
-Undergraduate student, Cuiying Honors College
-
-
-
 ### Zihan Liao (2022.11-)
 
 Undergraduate student, School of Life Sciences
