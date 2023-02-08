@@ -77,7 +77,7 @@ Undergraduate student, School of Life Sciences
 
 ### Alumini
 
-##### Xi Zhen (2021.10-2022.06)
+##### Xi Zheng (2021.10-2022.06)
 
 Graduate student in Shanghai Jiao Tong University. Former undergraduate student in the lab.
 
