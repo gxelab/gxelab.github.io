@@ -120,9 +120,9 @@ permalink: /join/
 
 邮箱：[bsh@lzu.edu.cn](mailto:bsh@lzu.edu.cn)
 
-**（二）学院联系方式：**
+**（二）学院博后办公室负责人联系方式：**
 
-生态学院李惠茹, 0931-8915360, lihuiru@lzu.edu.cn
+郭蓉, 0931-8915360, guorong@lzu.edu.cn
 
 
 
