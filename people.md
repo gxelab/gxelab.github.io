@@ -39,11 +39,6 @@ Undergraduate student, Cuiying Honors College
 Undergraduate student, School of Life Sciences
 
 
-### Xi Cheng (2022.06-)
-
-Undergraduate student, School of Life Sciences
-
-
 ### Ziyang Zhu (2022.09-)
 
 Undergraduate student, College of Ecology
