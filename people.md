@@ -54,6 +54,11 @@ Undergraduate student, Cuiying Honors College
 Undergraduate student, School of Life Sciences
 
 
+### Yu Zhang (2023.04-)
+
+Undergraduate student, School of Life Sciences
+
+
 ### Alumni (in the lab for at least six months)
 
 ##### Xi Zheng (2021.10-2022.06)
