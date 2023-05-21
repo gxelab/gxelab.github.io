@@ -8,7 +8,7 @@ permalink: /people/
 ### Hong Zhang (PI)
 
 Email: hong_zhang@lzu.edu.cn <br/>
-[ORCID: 0000-0002-4064-9432](https://orcid.org/0000-0002-4064-9432) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=dxVoC_kAAAAJ&view_op=list_works&sortby=pubdate) | [WOS](https://www.webofscience.com/wos/author/record/HZJ-4223-2023)
+[ORCID](https://orcid.org/0000-0002-4064-9432) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=dxVoC_kAAAAJ&view_op=list_works&sortby=pubdate) | [WOS](https://www.webofscience.com/wos/author/record/HZJ-4223-2023)
 
 
 ### Yue Chang (2021.09-)
@@ -72,7 +72,7 @@ MSc Student, College of Ecology
 
 Graduate student in Shanghai Jiao Tong University (上海交通大学). Former undergraduate student in the lab.
 
-##### Xi Zheng (2021.10-2023.06)
+##### Dongxu Li (2021.10-2023.06)
 
 Graduate student in Peking Union Medical College Hospital (协和医学院). Former undergraduate student in the lab.
 
