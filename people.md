@@ -6,13 +6,12 @@ permalink: /people/
 ---
 
 ### Hong Zhang (PI)
-<img src="../photo/ZH.jpg" alt="photo" width="100"/><br/> 
+
 Email: hong_zhang@lzu.edu.cn <br/>
-[ORCID: 0000-0002-4064-9432](https://orcid.org/0000-0002-4064-9432); [Google Scholar](https://scholar.google.com/citations?hl=en&user=dxVoC_kAAAAJ&view_op=list_works&sortby=pubdate)
+[ORCID: 0000-0002-4064-9432](https://orcid.org/0000-0002-4064-9432) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=dxVoC_kAAAAJ&view_op=list_works&sortby=pubdate) | [WOS](https://www.webofscience.com/wos/author/record/HZJ-4223-2023)
 
 
 ### Yue Chang (2021.09-)
-<img src="../photo/CY.jpg" alt="photo" width="100"/><br/>
 
 MSc Student, College of Ecology
 
@@ -20,13 +19,6 @@ MSc Student, College of Ecology
 ### Tianyu Lei (2021.09-)
 
 MSc Student, College of Ecology
-
-
-### Dongxu Li (2021.10-)
-
-<img src="../photo/LDX.jpg" alt="photo" width="100"/><br/>
-
-Undergraduate student, School of Life Sciences
 
 
 ### Chao Yao (2021.10-)
@@ -59,16 +51,32 @@ Undergraduate student, School of Life Sciences
 Undergraduate student, School of Life Sciences
 
 
+### Lijuan Zhu (2023.06-)
+
+PhD Student, College of Ecology
+
+
+### Mengyue Liu (2023.06-)
+
+MSc Student, College of Ecology
+
+
+### Yu Huang (2023.06-)
+
+MSc Student, College of Ecology
+
+
 ### Alumni (in the lab for at least six months)
 
 ##### Xi Zheng (2021.10-2022.06)
 
-Graduate student in Shanghai Jiao Tong University. Former undergraduate student in the lab.
+Graduate student in Shanghai Jiao Tong University (上海交通大学). Former undergraduate student in the lab.
 
+##### Xi Zheng (2021.10-2023.06)
 
-
+Graduate student in Peking Union Medical College Hospital (协和医学院). Former undergraduate student in the lab.
 
 
 -----
 
-© 2022 GxE Lab
+© 2023 GxE Lab
