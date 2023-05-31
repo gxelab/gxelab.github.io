@@ -31,10 +31,9 @@ permalink: /resources/
 
 - [In-house scripts](https://github.com/gxelab/scripts)
 - [Miscellaneous tutorials on Linux, R, and Bioinformatics](https://gitee.com/mt1022/bioinfo_tutorials)
-- [`PSite`](https://github.com/gxelab/psite): a python package for accurate inference of P-site offsets of ribosomal footprints
-- [`CUBAT`](https://github.com/gxelab/CUBAT): a python package for codon usage bias analysis
-- [`ORFtools`](https://github.com/gxelab/orftools): scripts for open reading frame (ORF) analyses (annotation, classification, ...)
-- [`GPPY`](https://github.com/mt1022/gppy): A python package for genomic interval conversions and transcript metainfo extraction from `GTF` files.
+- [`psite`](https://github.com/gxelab/psite): a python package for accurate inference of P-site offsets of ribosomal footprints
+- [`cubat`](https://github.com/gxelab/CUBAT): a python package for codon usage bias analysis
+- [`gppy`](https://github.com/mt1022/gppy): A python package for genomic interval conversions and transcript metainfo extraction from `GTF` files.
 
 <br/>
 
