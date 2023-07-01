@@ -5,6 +5,10 @@ nav_order: 3
 permalink: /publications/
 ---
 
+### 2023
+
+**Yue Chang**<sup>#</sup>, **Tianyu Lei**<sup>#</sup>, **Hong Zhang** (2023) PSite: inference of read-specific P-site offsets for ribosomal footprints. bioRxiv 2023.06.27.546788; doi: https://doi.org/10.1101/2023.06.27.546788
+
 ### 2022
 
 **Tianyu Lei**<sup>#</sup>, **Yue Chang**<sup>#</sup>, **Chao Yao**, **Hong Zhang** (2022) A systematic evaluation revealed that detecting translated non-canonical ORFs from ribosome profiling data remains challenging. bioRxiv 2022.12.11.520003; doi: https://doi.org/10.1101/2022.12.11.520003
