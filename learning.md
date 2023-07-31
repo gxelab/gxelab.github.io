@@ -9,7 +9,10 @@ permalink: /learning/
 
 ### 研究生基本知识和技能学习指南 (v2023)
 
+> 相关资料获取：坚果云团队版/GxELab/Resources/Library/推荐参考书
+
 <br/>
+
 
 ##### 01. Linux
 
@@ -19,9 +22,8 @@ permalink: /learning/
 
 我们的学习目的只是为了使用Linux运行一些专业的生物信息学软件，利用R或者python做数据分析，而不是成为专业的Linux系统管理员或者工程师，因此只需要有基本知识并了解常用的命令即可。相关的网络资源有很多，这里我们推荐：《Linux命令行大全-第二版》(The Linux Command Line, 2nd edition)。可以跟着教程快速过一遍，没有必要死记硬背，在电脑上多加练习即可。掌握怎么查询每个命令的使用方法（`cmd -h`;  `man cmd`;百度谷歌），以后需要的时候可以快速找到帮助，多用几次就熟悉了。
 
-> 资料获取
-> - 参考书：坚果云团队版/GxELab/Resources/Library/
-> - 自查清单：https://gitee.com/mt1022/bioinfo_tutorials/blob/master/basics/Linux.md
+
+> 自查清单：https://gitee.com/mt1022/bioinfo_tutorials/blob/master/basics/Linux.md
 
 <br/>
 
@@ -88,16 +90,16 @@ python代码书写规范
 
 - **Modern Mathematical Statistics with Applications** (Jay L. Devore, Kenneth N. Berk, Matthew A. Carlton; 3rd, 2021)
 - [**Bayesian Data Analysis**](http://www.stat.columbia.edu/~gelman/book/)
-- [**Deep Learning**](https://www.deeplearningbook.org/)
 - [**An Introduction to Statistical Learning**](https://www.statlearning.com/) （包含大量如何在R中实现的例子）
+- [**Dive into deep learning**](https://d2l.ai/) (pytorch版)
 
 除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅： 
 
+- [**Deep Learning**](https://www.deeplearningbook.org/)
 - Statistical Inference, 2nd edition （George Casella, Roger L. Berger；中文书名《统计推断》）
 - A Modern Introduction to Probability and Statistics: Understanding Why and How
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-> 资料获取：坚果云团队版/GxELab/Resources/Library/
 
 <br/>
 
@@ -148,9 +150,13 @@ python代码书写规范
 - Coalescent Theory: An Introduction By John Wakeley
 - Phylogenetic trees made easy： A how-to manual
 
-> 资料获取：坚果云团队版/GxELab/Resources/Library/
 
 <br/>
+
+
+##### 07. 分子细胞遗传基础
+
+- **Molecular Biology of the Cell** (7e, 2022)
 
 
 ### 科研训练
