@@ -81,7 +81,7 @@ python代码书写规范
 
 概率
 
-- A First Course in Probability （中文书名《概率论基础教程》）
+- **A First Course in Probability** （中文书名《概率论基础教程》）
 - Introduction to Probability Models （中文书名《应用随机过程：概率模型导论》）
 
 统计
@@ -104,18 +104,18 @@ python代码书写规范
 
 ##### 05. 生物信息学
 
-学校应该有相关的课程，但是可以参考这些网络资源作为辅助或者提前了解，重点推荐以下课程：
+强烈推荐:
 
-- [Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/)
+- [**Introduction to Bioinformatics and Computational Biology**](https://liulab-dfci.github.io/bioinfo-combio/)
 
-其他网上的课程资源
+其他网上资源:
 - [Coursera - 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku) （高歌、魏丽萍老师）
 - [基因组学分析](http://3d-genome.life/?page_id=7) （李程老师）
 - [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/) (清华鲁志老师)
 - [Coursera 生物信息学专项课程](https://www.coursera.org/specializations/bioinformatics)
 - [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
 
-一些不错的参考书
+不错的参考书:
 
 - **Biological sequence analysis - Probabilistic models of proteins and nucleic acids**
 - [**Bioinformatics Algorithms**](https://www.bioinformaticsalgorithms.org/)
@@ -127,17 +127,15 @@ python代码书写规范
 
 ##### 06. 演化生物学
 
-演化生物学的理论由于需要比较多的概率和统计知识，大学里面的课程一般都不怎么深入，或者很难在一学期的课程里讲明白，好在这一领域的前辈们写的书足够的详细。
-
-群体遗传学方面，推荐下面这几本书。前两本书是简介性的（也有一定难度），跟其他这一主题的教材相比，写的更加流畅，容易理解。第三本书更加详细，也更难，可以作为进一步学习的参考。
+群体遗传学方面，推荐下面这本书，内容比较连贯，容易理解，更深入或者复杂的内容请看其他参考书:
 
 - [**An Introduction to Population Genetics: Theory and Applications**](https://global.oup.com/ushe/product/an-introduction-to-population-genetics-9781605351537) by Rasmus Nielsen and Montgomery Slatkin 
 
-分子进化方面只推荐下面这一本书，从基本的理论知识到常用软件的算法写的非常详细，仅看前几章就让人受益匪浅。不论是学习分子进化的知识还是只想了解一下PAML、HyPhy等工具的原理，都很有帮助：
+分子进化方面只推荐下面这一本书，从基本的理论知识到常用软件的算法写的非常详细:
 
 - [**Molecular Evolution: A Statistical Approach**](http://abacus.gene.ucl.ac.uk/MESA/) by Ziheng Yang
 
-以下是领域内多位专家联合编写的分子进化和群体遗传学方面的手册，内容较新，并且涉及很多近年出现的应用，可以作为参考：
+以下是领域内多位专家联合编写的分子进化和群体遗传学方面的手册，内容较新，并且涉及很多近年出现的应用，可以作为参考手册：
 
 - [Phylogenetics in the Genomic Era](https://hal.inria.fr/PGE/)
 - [Handbook of Statistical Genomics, 4th Edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119487845)
@@ -148,6 +146,7 @@ python代码书写规范
 - [Molecular Population Genetics](https://global.oup.com/academic/product/molecular-population-genetics-9780878939657) by Matthew William Hahn
 - [Probability Models for DNA Sequence Evolution](https://www.springer.com/gp/book/9780387781686) by Richard Durrett
 - Coalescent Theory: An Introduction By John Wakeley
+- Phylogenetic trees made easy： A how-to manual
 
 > 资料获取：坚果云团队版/GxELab/Resources/Library/
 
