@@ -6,6 +6,7 @@ permalink: /publications/
 ---
 
 ### 2023
+**Tianyu Lei**<sup>#</sup>, **Yue Chang**<sup>#</sup>, **Chao Yao**, **Hong Zhang** (2023) A systematic evaluation of computational methods for predicting translated non-canonical ORFs from ribosome profiling data. Journal of Genetics and Genomics. doi: https://doi.org/10.1016/j.jgg.2023.08.010 [[Full Text](https://doi.org/10.1016/j.jgg.2023.08.010)]
 
 **Yue Chang**<sup>#</sup>, **Tianyu Lei**<sup>#</sup>, **Hong Zhang** (2023) PSite: inference of read-specific P-site offsets for ribosomal footprints. bioRxiv 2023.06.27.546788; doi: https://doi.org/10.1101/2023.06.27.546788
 
