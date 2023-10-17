@@ -9,19 +9,22 @@ permalink: /resources/
 
 ### Teaching
 
-- 2023-05-31 Evolutionary Ecology
+- 2023-09 Genetics (full semester; for undergraduates)
+  - Teaching Assitant (TA): Mengyue Liu
+
+- 2023-05-31 Evolutionary Ecology (one lecture; for Graduates)
   - [slides](https://www.jianguoyun.com/p/DUUhee8Q146cBhj744gFIAA) (code: KFActA)
 
-- 2022-10-28 Special Topics in Animal Ecology
+- 2022-10-28 Special Topics in Animal Ecology (two lectures; for Graduates)
   - Part 1:  [Introduction to Genomics](https://www.jianguoyun.com/p/DfmjMzsQ146cBhiaxOAEIAA)  (code：D4XfB4)
   - Part 2: [Introduction to Population Genetics](https://www.jianguoyun.com/p/DSGotNkQ146cBhifxOAEIAA)  (code：MgfyWW)
   - Part 3: [Introduction to Functional Genomics](https://www.jianguoyun.com/p/Dahi7boQ146cBhilxOAEIAA) (code：N3J9Mx)
 
-- 2022-04-18 Special Topics in Animal Ecology
+- 2022-04-18 Special Topics in Animal Ecology (two lectures; for Graduates)
   - Part 1: Introduction to Genomics
   - Part 2: Introduction to Functional Genomics
 
-- 2021-12-29 Advanced Ecological Statistics
+- 2021-12-29 Advanced Ecological Statistics (one lecture; for Graduates)
   - Genomic methods and their applications in Ecology
 
 
