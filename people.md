@@ -66,6 +66,11 @@ MSc Student, College of Ecology
 MSc Student, College of Ecology
 
 
+### Bu Zi (2023.09-)
+
+Undergraduate student, Cuiying Honors College
+
+
 ### Alumni (in the lab for at least six months)
 
 ##### Xi Zheng (2021.10-2022.06)

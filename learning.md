@@ -100,6 +100,7 @@ python代码书写规范
 - A Modern Introduction to Probability and Statistics: Understanding Why and How
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
+[StatQuest](https://statquest.org/video-index/)的视频讲各类统计学的概念非常直观，而且简单易懂，强烈推荐。
 
 <br/>
 
