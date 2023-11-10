@@ -9,6 +9,9 @@ permalink: /resources/
 
 ### Teaching
 
+- 2023-11 Special Topics in Animal Ecology (two lectures; for Graduates)
+  - [Introduction to Population Genetics (v2)](https://www.jianguoyun.com/p/DfgRqdQQ146cBhiOjKMFIAA) (code：ujtTPC)
+
 - 2023-09 Genetics (full semester; for undergraduates)
   - Teaching Assitant (TA): Mengyue Liu
 
