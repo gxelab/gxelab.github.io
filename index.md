@@ -22,7 +22,7 @@ We also have some projects for undergraduate students. Please contact the PI dir
 
 
 
-### 研究方向
+### 研究方向：基因组非编码区功能与演化
 
 **非经典翻译组**
 
