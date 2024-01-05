@@ -59,4 +59,4 @@ permalink: /resources/
 
 -----
 
-© 2023 GxE Lab
+© 2024 GxE Lab
