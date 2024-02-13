@@ -21,29 +21,17 @@ MSc Student, College of Ecology
 MSc Student, College of Ecology
 
 
-### Chao Yao (2021.10-)
-
-Undergraduate student, Cuiying Honors College
-
-
 ### Hebing Zhang (2022.05-)
 
 Undergraduate student, School of Life Sciences
-
 
 ### Ziyang Zhu (2022.09-)
 
 Undergraduate student, College of Ecology
 
-
 ### Yinuo Xie (2022.09-)
 
 Undergraduate student, Cuiying Honors College
-
-
-### Zihan Liao (2022.11-)
-
-Undergraduate student, School of Life Sciences
 
 
 ### Yu Zhang (2023.04-)
@@ -65,10 +53,25 @@ MSc Student, College of Ecology
 
 MSc Student, College of Ecology
 
+### Xintao Liu (2023.09-)
+
+Undergraduate student, Guizhou University
 
 ### Bu Zi (2023.09-)
 
 Undergraduate student, Cuiying Honors College
+
+
+
+### Visiting students
+
+##### Lingjie Tang (2021.09-2022.1)
+
+School of Pharmacy, Lanzhou University
+
+##### Yinglin He (2023.08-)
+
+College of Animal Medicine and Biosafety, Lanzhou University
 
 
 ### Alumni (in the lab for at least six months)
@@ -81,6 +84,13 @@ Graduate student in Shanghai Jiao Tong University (上海交通大学). Former u
 
 Graduate student in Peking Union Medical College Hospital (协和医学院). Former undergraduate student in the lab.
 
+### Chao Yao (2021.10-2023.11)
+
+Will be a Graduate student in College of Future Technology, Peking University (北京大学). Former undergraduate student in the lab.
+
+### Zihan Liao (2022.11-2023.11)
+
+Will be a Graduate student in  School of Life Sciences, University of Science and TEchnology of China (中国科学技术大学). Former undergraduate student in the lab.
 
 -----
 
