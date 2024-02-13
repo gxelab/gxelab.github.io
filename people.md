@@ -62,18 +62,6 @@ Undergraduate student, Guizhou University
 Undergraduate student, Cuiying Honors College
 
 
-
-### Visiting students
-
-##### Lingjie Tang (2021.09-2022.1)
-
-School of Pharmacy, Lanzhou University
-
-##### Yinglin He (2023.08-)
-
-College of Animal Medicine and Biosafety, Lanzhou University
-
-
 ### Alumni (in the lab for at least six months)
 
 ##### Xi Zheng (2021.10-2022.06)
@@ -84,13 +72,24 @@ Graduate student in Shanghai Jiao Tong University (上海交通大学). Former u
 
 Graduate student in Peking Union Medical College Hospital (协和医学院). Former undergraduate student in the lab.
 
-### Chao Yao (2021.10-2023.11)
+##### Chao Yao (2021.10-2023.11)
 
-Will be a Graduate student in College of Future Technology, Peking University (北京大学). Former undergraduate student in the lab.
+Will be a Graduate student in College of Future Technology, Peking University (北京大学). Former undergraduate student  in the lab from Cuiying Honors College.
 
-### Zihan Liao (2022.11-2023.11)
+##### Zihan Liao (2022.11-2023.11)
 
-Will be a Graduate student in  School of Life Sciences, University of Science and TEchnology of China (中国科学技术大学). Former undergraduate student in the lab.
+Will be a Graduate student in  School of Life Sciences, University of Science and TEchnology of China (中国科学技术大学). Former undergraduate student in the lab from School of Life Sciences.
+
+
+### Visiting students
+
+##### Yinglin He (2023.08-)
+
+College of Animal Medicine and Biosafety, Lanzhou University
+
+##### Lingjie Tang (2021.09-2022.2)
+
+School of Pharmacy, Lanzhou University
 
 -----
 
