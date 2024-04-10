@@ -81,9 +81,10 @@ NGS data
 - [Nature Ecology & Evolution](https://www.nature.com/natecolevol/)
 - [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x)
 - [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X)
-- [Genome Biology](https://genomebiology.biomedcentral.com/), [Genome Research](https://genome.cshlp.org/), ...
-- [Molecular Cell](https://www.sciencedirect.com/journal/molecular-cell), [Cell Research](https://www.nature.com/cr/), [elife](https://elifesciences.org/), ...
-- [Developmental Cell](https://www.sciencedirect.com/journal/developmental-cell), ...
+- [Genome Biology](https://genomebiology.biomedcentral.com/)
+- [Genome Research](https://genome.cshlp.org/)
+- [Molecular Cell](https://www.sciencedirect.com/journal/molecular-cell)
+- [Developmental Cell](https://www.sciencedirect.com/journal/developmental-cell)
 - Other multidisciplinary journals including [Cell](https://www.sciencedirect.com/journal/cell), [Nature](https://www.nature.com/), [Science](https://www.science.org/journal/science), PNAS, Current Biology, PLoS Biology, elife, Journal of Genetics and Genomics, PLoS Genetics, Genetics, Evolution, ...
 
 
