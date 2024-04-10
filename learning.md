@@ -7,7 +7,7 @@ permalink: /learning/
 
 <br/>
 
-### 研究生基本知识和技能学习指南 (v2023)
+### 研究生基本知识和技能学习指南 (v2024)
 
 > 相关资料获取：坚果云团队版/GxELab/Resources/Library/推荐参考书
 
@@ -34,14 +34,14 @@ R语言在统计分析和图形化展示方面具有独到的优势，在生物�
 R语言入门
 
 - **An Introduction to R** ([HTML](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  [PDF](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf))（官方简介；推荐先看这个）
-- **[R for Data Science (2e)](https://r4ds.hadley.nz/)**（用当下流行的package介绍R；推荐后看）
-- **[Advanced R](https://adv-r.hadley.nz/)** (R语言的深入剖析，看一看没坏处)
+- **[Advanced R](https://adv-r.hadley.nz/)** (R语言的深入剖析，想把R用的得心应手必看)
+- **[R for Data Science (2e)](https://r4ds.hadley.nz/)**（R语言数据分析的基础；推荐后看）
 
 其他参考资料
 
-- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) （一位进化生物学和计算生物学领域的专家写的书；非常不错）
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) （怎么做合理、美观的可视化）
 - [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) （ggplot2的作者写的书） 
-- [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) （可选看）
+- [STAT 545: Data wrangling, exploration, and analysis with R](https://stat545.com/) 
 - [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 
 
@@ -59,6 +59,7 @@ R语言入门
 
 网上有无数免费的python学习资源，B站也有很多视频教程，根据自己的喜好选择一个即可，重要的是得上手练，不能只看。专门讲如何用python做数据分析的书包括：
 
+- **[Python for Data Analysis, 3E](https://wesmckinney.com/book/)** (注重数据分析，强烈推荐)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - Data Science from Scratch: First Principles with Python (2nd)
 
@@ -101,6 +102,15 @@ python代码书写规范
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 [StatQuest](https://statquest.org/video-index/)的视频讲各类统计学的概念非常直观，而且简单易懂，强烈推荐。
+
+<br/>
+
+
+##### 05. 分子细胞遗传基础
+
+- **Molecular Biology of the Cell** (7e, 2022)
+- 
+如果你本科专业不是生物科学或生物技术，强烈建议阅读以上书籍快速了解相关的基础知识。即使你学的是相关专业，也可以通过本书获得更清晰的细胞内基本过程的图像。
 
 <br/>
 
@@ -153,11 +163,6 @@ python代码书写规范
 
 
 <br/>
-
-
-##### 07. 分子细胞遗传基础
-
-- **Molecular Biology of the Cell** (7e, 2022)
 
 
 ### 科研训练
