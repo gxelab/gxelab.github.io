@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Join Us!
-nav_order: 8
+title: Join Us
+nav_order: 4
 permalink: /join/
 ---
 

@@ -71,24 +71,20 @@ NGS data
 
 ### Books and Journals
 
-#### Journals in Ecology and Evolution
+#### Related Journals
 
+- [Nature Review Genetics](https://www.nature.com/nrg/)
 - [Trends in Ecology and Evolution](https://www.sciencedirect.com/journal/trends-in-ecology-and-evolution)
 - [Annual Review of Ecology, Evolution, and Systematics](https://www.annualreviews.org/journal/ecolsys)
-- [Nature Review Genetics](https://www.nature.com/nrg/)
 - [Nature Genetics](https://www.nature.com/ng/)
 - [Molecular Biology and Evolution](https://academic.oup.com/mbe)
 - [Nature Ecology & Evolution](https://www.nature.com/natecolevol/)
-- [Ecology Letters](https://onlinelibrary.wiley.com/journal/14610248)
 - [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x)
 - [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X)
-- [Evolution](https://onlinelibrary.wiley.com/journal/15585646)
-- [Genetics](https://academic.oup.com/genetics)
 - [Genome Biology](https://genomebiology.biomedcentral.com/), [Genome Research](https://genome.cshlp.org/), ...
 - [Molecular Cell](https://www.sciencedirect.com/journal/molecular-cell), [Cell Research](https://www.nature.com/cr/), [elife](https://elifesciences.org/), ...
 - [Developmental Cell](https://www.sciencedirect.com/journal/developmental-cell), ...
-- [Nautre plants](https://www.nature.com/nplants/), [Nature Microbiology](https://www.nature.com/nmicrobiol/), [Molecular Plant](https://www.sciencedirect.com/journal/molecular-plant/), ...
-- Other multidisciplinary journals including [Cell](https://www.sciencedirect.com/journal/cell), [Nature](https://www.nature.com/), [Science](https://www.science.org/journal/science), ...
+- Other multidisciplinary journals including [Cell](https://www.sciencedirect.com/journal/cell), [Nature](https://www.nature.com/), [Science](https://www.science.org/journal/science), PNAS, Current Biology, PLoS Biology, elife, Journal of Genetics and Genomics, PLoS Genetics, Genetics, Evolution, ...
 
 
 

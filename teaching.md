@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Resources
-nav_order: 8
-permalink: /resources/
+title: Teaching
+nav_order: 6
+permalink: /teaching/
 ---
 
 ### Resources
