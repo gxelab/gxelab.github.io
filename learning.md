@@ -22,10 +22,17 @@ permalink: /learning/
 
 我们的学习目的只是为了使用Linux运行一些专业的生物信息学软件，利用R或者python做数据分析，而不是成为专业的Linux系统管理员或者工程师，因此只需要有基本知识并了解常用的命令即可。相关的网络资源有很多，这里我们推荐：《Linux命令行大全-第二版》(The Linux Command Line, 2nd edition)。可以跟着教程快速过一遍，没有必要死记硬背，在电脑上多加练习即可。掌握怎么查询每个命令的使用方法（`cmd -h`;  `man cmd`;百度谷歌），以后需要的时候可以快速找到帮助，多用几次就熟悉了。
 
+> Linux常用命令自查清单：https://gitee.com/mt1022/bioinfo_tutorials/blob/master/basics/Linux.md
 
-> 自查清单：https://gitee.com/mt1022/bioinfo_tutorials/blob/master/basics/Linux.md
+登录远程Linux服务器的免费开源客户端：
+
+- Windows: [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=zh-cn&gl=CN), [tabby](https://tabby.sh/)
+- Mac OS: [iTerm2](https://iterm2.com/), [warp](https://www.warp.dev/)
+
+在大型公共Linux集群上提交任务需要学习[slurm](https://slurm.schedmd.com/overview.html)的客户端命令: `squeue/sinfo/srun/sbatch`等。
 
 <br/>
+
 
 ##### 02. R
 
@@ -78,7 +85,7 @@ python代码书写规范
 <br/>
 
 
-##### 04. 概率统计
+##### 04. 概率统计与机器学习
 
 应该尽量在本科阶段学习高等数学，线性代数，概率论和数理统计；如果只学了高数也没关系，抽时间自学另外两门课就可以了。可以从这几本书开始：
 
@@ -91,6 +98,9 @@ python代码书写规范
 
 - **Modern Mathematical Statistics with Applications** (Jay L. Devore, Kenneth N. Berk, Matthew A. Carlton; 3rd, 2021)
 - [**Bayesian Data Analysis**](http://www.stat.columbia.edu/~gelman/book/)
+
+机器学习
+
 - [**An Introduction to Statistical Learning**](https://www.statlearning.com/) （包含大量如何在R中实现的例子）
 - [**Dive into deep learning**](https://d2l.ai/) (pytorch版)
 
