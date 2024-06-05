@@ -40,7 +40,7 @@ R语言在统计分析和图形化展示方面具有独到的优势，在生物�
 
 R语言入门
 
-- **An Introduction to R** ([HTML](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  [PDF](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf))（官方简介；推荐先看这个）
+- **An Introduction to R** ([HTML](https://cran.r-project.org/doc/manuals/r-release/R-intro.html),  [PDF](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf))（官方简介；如果毫无基础可以花两天时间快速浏览一遍）
 - **[Advanced R](https://adv-r.hadley.nz/)** (R语言的深入剖析，想把R用的得心应手必看)
 - **[R for Data Science (2e)](https://r4ds.hadley.nz/)**（R语言数据分析的基础；推荐后看）
 
@@ -54,10 +54,10 @@ R语言入门
 
 需要掌握的常用第三方package
 
-- `tidyverse`系列 - `dplyr` + `tidyr` + `readr`+`ggplot2`等
+- `tidyverse`系列 - `dplyr` + `tidyr` + `readr`+`ggplot2`需要非常熟练。
 - `data.table`
 
-`dplyr`, `tidyr`, `readr`和`ggplot2`需要非常熟练。
+IDE推荐: [RStudio](https://www.rstudio.com/products/rstudio/download/)
 
 
 <br/>
@@ -81,6 +81,8 @@ R语言入门
 python代码书写规范
 
 - [Style Guide for Python Code](https://peps.python.org/pep-0008/)
+
+IDE推荐：[Visual Studio Code](https://code.visualstudio.com/),[Jupyter Lab](https://jupyter.org/)
 
 <br/>
 
@@ -135,8 +137,10 @@ python代码书写规范
 - [Coursera - 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku) （高歌、魏丽萍老师）
 - [基因组学分析](http://3d-genome.life/?page_id=7) （李程老师）
 - [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/) (清华鲁志老师)
+- [Computational Biology: Genomes, Networks, Evolution](https://stellar.mit.edu/S/course/6/fa21/6.047/materials.html)
 - [Coursera 生物信息学专项课程](https://www.coursera.org/specializations/bioinformatics)
 - [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
+
 
 不错的参考书:
 
