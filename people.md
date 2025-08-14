@@ -47,7 +47,7 @@ MSc Student, College of Ecology
 
 ### Alumni (in the lab for at least six months)
 
-### Hebing Zhang (2022.05-2025.07)
+#### Hebing Zhang (2022.05-2025.07)
 
 Former undergraduate student in the lab from School of Life Sciences. Now a PhD student in School of Life Sciences, University of Chinese Academy of Sciences (中国科学院大学).
 
