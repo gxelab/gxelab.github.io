@@ -108,8 +108,7 @@ IDE推荐：[Visual Studio Code](https://code.visualstudio.com/),[Jupyter Lab](h
 
 除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅： 
 
-- [**Deep Learning**](https://www.deeplearningbook.org/)
-- Statistical Inference, 2nd edition （George Casella, Roger L. Berger；中文书名《统计推断》）
+- [**Deep Learning - Fundations and Concepts**](https://www.bishopbook.com/)
 - A Modern Introduction to Probability and Statistics: Understanding Why and How
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
@@ -134,9 +133,9 @@ IDE推荐：[Visual Studio Code](https://code.visualstudio.com/),[Jupyter Lab](h
 - [**Introduction to Bioinformatics and Computational Biology**](https://liulab-dfci.github.io/bioinfo-combio/)
 
 其他网上资源:
-- [Coursera - 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku) （高歌、魏丽萍老师）
-- [基因组学分析](http://3d-genome.life/?page_id=7) （李程老师）
-- [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/) (清华鲁志老师)
+- [Coursera - 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku)
+- [基因组学分析](http://3d-genome.life/?page_id=7)
+- [Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/)
 - [Computational Biology: Genomes, Networks, Evolution](https://stellar.mit.edu/S/course/6/fa21/6.047/materials.html)
 - [Coursera 生物信息学专项课程](https://www.coursera.org/specializations/bioinformatics)
 - [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
@@ -147,7 +146,7 @@ IDE推荐：[Visual Studio Code](https://code.visualstudio.com/),[Jupyter Lab](h
 - **Biological sequence analysis - Probabilistic models of proteins and nucleic acids**
 - [**Bioinformatics Algorithms**](https://www.bioinformaticsalgorithms.org/)
 - Bioinformatics and Functional Genomics （中文书名《生物信息学与功能基因组学》第三版）
-- 生物信息学（第二版，樊龙江主编）
+- 生物信息学（第二版）
 
 <br/>
 

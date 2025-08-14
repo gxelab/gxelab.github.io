@@ -12,25 +12,19 @@ Email: hong_zhang@lzu.edu.cn <br/>
 
 ### Tianyu Lei (2021.09-)
 
-MSc Student, College of Ecology
-
-### Hebing Zhang (2022.05-)
-
-Undergraduate student, School of Life Sciences
+PhD Student, College of Ecology
 
 ### Ziyang Zhu (2022.09-)
 
-Undergraduate student, College of Ecology
+MSc Student, College of Ecology
 
 ### Lijuan Zhu (2023.06-)
 
 PhD Student, College of Ecology
 
-
 ### Mengyue Liu (2023.06-)
 
 MSc Student, College of Ecology
-
 
 ### Yu Huang (2023.06-)
 
@@ -38,21 +32,32 @@ MSc Student, College of Ecology
 
 ### Xintao Liu (2023.09-)
 
-Undergraduate student, Guizhou University
+MSc Student, College of Ecology
 
+### Jiawen Jiang (2024.09-)
+
+MSc Student, College of Ecology
+
+### Feng Zhou (2024.09-)
+
+MSc Student, College of Ecology
 
 --------------------------------------------
 
 
 ### Alumni (in the lab for at least six months)
 
+### Hebing Zhang (2022.05-2025.07)
+
+Former undergraduate student in the lab from School of Life Sciences. Now a PhD student in School of Life Sciences, University of Chinese Academy of Sciences (中国科学院大学).
+
 #### Yinuo Xie (2022.09-2024.09)
 
-Former undergraduate student in the lab from Cuiying Honors College. Will be a PhD student in 2025 in the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences (遗传与发育生物学研究所).
+Former undergraduate student in the lab from Cuiying Honors College. Now a PhD student in the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences (遗传与发育生物学研究所).
 
 #### Yu Zhang (2023.04-2024.09)
 
-Former undergraduate student in the lab from School of Life Sciences. Will be a PhD student in 2025 in the Kunming Institute of Zoology, Chinese Academy of Sciences (昆明动物所).
+Former undergraduate student in the lab from School of Life Sciences. Now a PhD student in the Kunming Institute of Zoology, Chinese Academy of Sciences (昆明动物所).
 
 #### Yue Chang (2021.09-2024.06)
 
@@ -79,9 +84,16 @@ Former undergraduate student in the lab from School of Life Sciences. Now a grad
 Former undergraduate student in the lab. Now a graduate student in Shanghai Jiao Tong University (上海交通大学). 
 
 
+--------------------------------------------
+
+
 ### Visiting students
 
 ##### Yinglin He (2023.08-)
+
+MSc student from College of Animal Medicine and Biosafety, Lanzhou University
+
+##### Zhen Zhi (2024.09-)
 
 MSc student from College of Animal Medicine and Biosafety, Lanzhou University
 
@@ -91,4 +103,4 @@ MSc student from School of Pharmacy, Lanzhou University
 
 -----
 
-© 2024 GxE Lab
+© 2025 GxE Lab
