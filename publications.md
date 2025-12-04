@@ -6,7 +6,10 @@ permalink: /publications/
 ---
 
 ### 2025
-**Mengyue Liu**, **Bu Zi**, **Hebin Zhang**, **Hong Zhang** (2025) cubar: a versatile package for codon usage bias analysis in R, Genetics, iyaf191, doi: https://doi.org/10.1093/genetics/iyaf191 [[Full Text](https://doi.org/10.1093/genetics/iyaf191)]
+**Yue Chang**<sup>#</sup>, **Tianyu Lei**<sup>#</sup>, **Feng Zhou**, **Jiawen Jiang**, **Yu Huang**, **Ziyang Zhu**, **Hong Zhang** (2025) Evolutionary remodeling of non-canonical ORF translation in mammals. eLife14:RP109128, doi: https://doi.org/10.7554/eLife.109128 [[Full Text](https://doi.org/10.7554/eLife.109128), [Preprint](https://doi.org/10.1101/2025.09.16.676541)]
+
+
+**Mengyue Liu**, **Bu Zi**, **Hebin Zhang**, **Hong Zhang** (2025) cubar: a versatile package for codon usage bias analysis in R. Genetics, iyaf191, doi: https://doi.org/10.1093/genetics/iyaf191 [[Full Text](https://doi.org/10.1093/genetics/iyaf191)]
 
 ### 2024
 **Tianyu Lei**<sup>#</sup>, **Yue Chang**<sup>#</sup>, **Chao Yao**, **Hong Zhang** (2023) A systematic evaluation of computational methods for predicting translated non-canonical ORFs from ribosome profiling data. Journal of Genetics and Genomics. doi: https://doi.org/10.1016/j.jgg.2023.08.010 [[Full Text](https://doi.org/10.1016/j.jgg.2023.08.010)]
