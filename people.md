@@ -12,27 +12,19 @@ Email: hong_zhang@lzu.edu.cn <br/>
 
 ### Tianyu Lei (2021.09-)
 
-PhD Student, College of Ecology
+Msc Student -> PhD Student, College of Ecology
 
 ### Ziyang Zhu (2022.09-)
 
-MSc Student, College of Ecology
+Undergraduate student -> MSc Student, College of Ecology
 
 ### Lijuan Zhu (2023.06-)
 
 PhD Student, College of Ecology
 
-### Mengyue Liu (2023.06-)
-
-MSc Student, College of Ecology
-
-### Yu Huang (2023.06-)
-
-MSc Student, College of Ecology
-
 ### Xintao Liu (2023.09-)
 
-MSc Student, College of Ecology
+Undergraduate student -> MSc Student, College of Ecology
 
 ### Jiawen Jiang (2024.09-)
 
@@ -42,10 +34,22 @@ MSc Student, College of Ecology
 
 MSc Student, College of Ecology
 
+### Ran Zhao (2025.09-)
+
+Undergraduate student -> MSc Student, College of Ecology
+
 --------------------------------------------
 
 
 ### Alumni (in the lab for at least six months)
+
+#### Mengyue Liu (2023.06-2026.6)
+
+Former MSc Student. Will Join TeachForChina and become a teacher soon.
+
+#### Yu Huang (2023.06-2026.6)
+
+Former MSc Student. Now work for Department of Ecology and Environment in the Yunnan Province.
 
 #### Hebing Zhang (2022.05-2025.07)
 
@@ -89,7 +93,7 @@ Former undergraduate student in the lab. Now a graduate student in Shanghai Jiao
 
 ### Visiting students
 
-##### Yinglin He (2023.08-)
+##### Yinglin He (2023.08-2026.06)
 
 MSc student from College of Animal Medicine and Biosafety, Lanzhou University
 
