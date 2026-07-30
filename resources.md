@@ -15,7 +15,8 @@ permalink: /resources/
 
 ### Python packages
 
-- [`psite`](https://github.com/gxelab/psite): a python package for accurate inference of P-site offsets of ribosomal footprints
+- [`isolens`](https://github.com/gxelab/isolens): a python package for isoform-resolution analysis of RNA modifications and poly(A) tail lengths based on Direct RNA-sequencing data.
+- [`psite`](https://github.com/gxelab/psite): a python package for accurate inference of P-site offsets of ribosomal footprints.
 - [`gppy`](https://github.com/mt1022/gppy): A python package for genomic interval conversions and transcript metainfo extraction from `GTF` files.
 
 
