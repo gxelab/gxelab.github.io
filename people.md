@@ -12,36 +12,45 @@ Email: hong_zhang@lzu.edu.cn <br/>
 
 ### Tianyu Lei (2021.09-)
 
-Msc Student -> PhD Student, College of Ecology
+Msc Student -> PhD Student
 
 ### Ziyang Zhu (2022.09-)
 
-Undergraduate student -> MSc Student, College of Ecology
+Undergraduate student -> MSc Student
 
 ### Lijuan Zhu (2023.06-)
 
-PhD Student, College of Ecology
+PhD Student
 
 ### Xintao Liu (2023.09-)
 
-Undergraduate student -> MSc Student, College of Ecology
+Undergraduate student -> MSc Student
 
 ### Jiawen Jiang (2024.09-)
 
-MSc Student, College of Ecology
+MSc Student
 
 ### Feng Zhou (2024.09-)
 
-MSc Student, College of Ecology
+MSc Student
 
 ### Ran Zhao (2025.09-)
 
-Undergraduate student -> MSc Student, College of Ecology
+Undergraduate student -> MSc Student
+
+### Yanzhi Hu (2024.09-)
+Undergraduate student
+
+### Zishuo Chen (2025.09-)
+Undergraduate student
 
 --------------------------------------------
 
 
 ### Alumni (in the lab for at least six months)
+
+#### Zhengyu Lin (2025.03-2024.09)
+Former undergraduate student. Has been admitted to the School of Life Sciences, Sun Yat-sen University.
 
 #### Mengyue Liu (2023.06-2026.6)
 
