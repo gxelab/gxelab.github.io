@@ -49,7 +49,7 @@ Undergraduate student
 
 ### Alumni (in the lab for at least six months)
 
-#### Zhengyu Lin (2025.03-2024.09)
+#### Zhengyu Lin (2025.03-2026.08)
 Former undergraduate student. Has been admitted to the School of Life Sciences, Sun Yat-sen University.
 
 #### Mengyue Liu (2023.06-2026.6)
