@@ -6,11 +6,13 @@ permalink: /publications/
 ---
 
 ### 2026
+
+**Feng Zhou**, **Jiawen Jiang**, Tianyu Lei, Yue Chang, **Hong Zhang**<sup>\*</sup> (2026) Emerging hallmarks of functional proteins encoded by non-canonical ORFs. WIREs RNA. (Review; In press)
+
 **Yinglin He**, **Xintao Liu**, Yingying Du, Weiwei Zhou, Jie Peng, Shuai Xu, Qiyun Zhua<sup>\*</sup>, **Hong Zhang**<sup>\*</sup> (2026) Dynamic prediction of H5N1 outbreak hotspots in wild bird populations under global change. Virologica Sinica. (In press)
 
 ### 2025
 **Yue Chang**<sup>#</sup>, **Tianyu Lei**<sup>#</sup>, **Feng Zhou**, **Jiawen Jiang**, **Yu Huang**, **Ziyang Zhu**, **Hong Zhang** (2025) Evolutionary remodeling of non-canonical ORF translation in mammals. eLife14:RP109128, doi: https://doi.org/10.7554/eLife.109128 [[Full Text](https://doi.org/10.7554/eLife.109128), [Preprint](https://doi.org/10.1101/2025.09.16.676541)]
-
 
 **Mengyue Liu**, **Bu Zi**, **Hebin Zhang**, **Hong Zhang** (2025) cubar: a versatile package for codon usage bias analysis in R. Genetics, iyaf191, doi: https://doi.org/10.1093/genetics/iyaf191 [[Full Text](https://doi.org/10.1093/genetics/iyaf191)]
 
