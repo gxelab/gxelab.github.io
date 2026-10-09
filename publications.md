@@ -7,7 +7,7 @@ permalink: /publications/
 
 ### 2026
 
-**Feng Zhou**, **Jiawen Jiang**, Tianyu Lei, Yue Chang, **Hong Zhang**<sup>\*</sup> (2026) Emerging hallmarks of functional proteins encoded by non-canonical ORFs. WIREs RNA. (Review; In press)
+**Feng Zhou**<sup>#</sup>, **Jiawen Jiang**<sup>#</sup>, **Tianyu Lei**, **Yue Chang**, **Hong Zhang**<sup>\*</sup> (2026) Emerging hallmarks of functional proteins encoded by non-canonical ORFs. WIREs RNA. (Review; In press)
 
 **Yinglin He**, **Xintao Liu**, Yingying Du, Weiwei Zhou, Jie Peng, Shuai Xu, Qiyun Zhua<sup>\*</sup>, **Hong Zhang**<sup>\*</sup> (2026) Dynamic prediction of H5N1 outbreak hotspots in wild bird populations under global change. Virologica Sinica. (In press)
 
