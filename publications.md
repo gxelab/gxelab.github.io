@@ -7,24 +7,24 @@ permalink: /publications/
 
 ### 2026
 
-**Feng Zhou**<sup>#</sup>, **Jiawen Jiang**<sup>#</sup>, **Tianyu Lei**, **Yue Chang**, **Hong Zhang**<sup>\*</sup> (2026) Emerging hallmarks of functional proteins encoded by non-canonical ORFs. Wiley Interdisciplinary Reviews: RNA. 17, no. 5: e70063. doi: https://doi.org/10.1002/wrna.70063. [[Full Text](https://doi.org/10.1002/wrna.70063)]
+**Feng Zhou**<sup>#</sup>, **Jiawen Jiang**<sup>#</sup>, **Tianyu Lei**, **Yue Chang**, **Hong Zhang**<sup>\*</sup> (2026) Emerging hallmarks of functional proteins encoded by non-canonical ORFs. Wiley Interdisciplinary Reviews: RNA, 17, no. 5: e70063. doi: https://doi.org/10.1002/wrna.70063. [[Full Text](https://doi.org/10.1002/wrna.70063)]
 
-**Yinglin He**, **Xintao Liu**, Yingying Du, Weiwei Zhou, Jie Peng, Shuai Xu, Qiyun Zhua<sup>\*</sup>, **Hong Zhang**<sup>\*</sup> (2026) Dynamic prediction of H5N1 outbreak hotspots in wild bird populations under global change. Virologica Sinica. (In press)
+**Yinglin He**, **Xintao Liu**, Yingying Du, Weiwei Zhou, Jie Peng, Shuai Xu, Qiyun Zhu<sup>\*</sup>, **Hong Zhang**<sup>\*</sup> (2026) Dynamic prediction of H5N1 outbreak hotspots in wild bird populations under global change. Virologica Sinica. (In press)
 
 ### 2025
-**Yue Chang**<sup>#</sup>, **Tianyu Lei**<sup>#</sup>, **Feng Zhou**, **Jiawen Jiang**, **Yu Huang**, **Ziyang Zhu**, **Hong Zhang** (2025) Evolutionary remodeling of non-canonical ORF translation in mammals. eLife 14: RP109128, doi: https://doi.org/10.7554/eLife.109128 [[Full Text](https://doi.org/10.7554/eLife.109128), [Preprint](https://doi.org/10.1101/2025.09.16.676541)]
+**Yue Chang**<sup>#</sup>, **Tianyu Lei**<sup>#</sup>, **Feng Zhou**, **Jiawen Jiang**, **Yu Huang**, **Ziyang Zhu**, **Hong Zhang** (2025) Evolutionary remodeling of non-canonical ORF translation in mammals. eLife, 14: RP109128, doi: https://doi.org/10.7554/eLife.109128 [[Full Text](https://doi.org/10.7554/eLife.109128), [Preprint](https://doi.org/10.1101/2025.09.16.676541)]
 
-**Mengyue Liu**, **Bu Zi**, **Hebin Zhang**, **Hong Zhang** (2025) cubar: a versatile package for codon usage bias analysis in R. Genetics, iyaf191, doi: https://doi.org/10.1093/genetics/iyaf191 [[Full Text](https://doi.org/10.1093/genetics/iyaf191)]
+**Mengyue Liu**, **Bu Zi**, **Hebin Zhang**, **Hong Zhang** (2025) cubar: a versatile package for codon usage bias analysis in R. Genetics, iyaf191. doi: https://doi.org/10.1093/genetics/iyaf191 [[Full Text](https://doi.org/10.1093/genetics/iyaf191)]
 
 ### 2024
 **Tianyu Lei**<sup>#</sup>, **Yue Chang**<sup>#</sup>, **Chao Yao**, **Hong Zhang** (2023) A systematic evaluation of computational methods for predicting translated non-canonical ORFs from ribosome profiling data. Journal of Genetics and Genomics. doi: https://doi.org/10.1016/j.jgg.2023.08.010 [[Full Text](https://doi.org/10.1016/j.jgg.2023.08.010)]
 
 ### 2023
-**Yue Chang**<sup>#</sup>, **Tianyu Lei**<sup>#</sup>, **Hong Zhang** (2023) PSite: inference of read-specific P-site offsets for ribosomal footprints. bioRxiv 2023.06.27.546788; doi: https://doi.org/10.1101/2023.06.27.546788
+**Yue Chang**<sup>#</sup>, **Tianyu Lei**<sup>#</sup>, **Hong Zhang** (2023) PSite: inference of read-specific P-site offsets for ribosomal footprints. bioRxiv, 2023.06.27.546788; doi: https://doi.org/10.1101/2023.06.27.546788
 
 ### 2022
 
-**Tianyu Lei**<sup>#</sup>, **Yue Chang**<sup>#</sup>, **Chao Yao**, **Hong Zhang** (2022) A systematic evaluation revealed that detecting translated non-canonical ORFs from ribosome profiling data remains challenging. bioRxiv 2022.12.11.520003; doi: https://doi.org/10.1101/2022.12.11.520003
+**Tianyu Lei**<sup>#</sup>, **Yue Chang**<sup>#</sup>, **Chao Yao**, **Hong Zhang** (2022) A systematic evaluation revealed that detecting translated non-canonical ORFs from ribosome profiling data remains challenging. bioRxiv, 2022.12.11.520003; doi: https://doi.org/10.1101/2022.12.11.520003
 
 ### 2021
 
