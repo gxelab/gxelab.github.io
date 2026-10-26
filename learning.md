@@ -16,18 +16,18 @@ permalink: /learning/
 
 ##### 01. Linux
 
-如果使用Linux和Mac OS操作系统，可以直接在终端（Terminal）练习命令行的操作。如果使用Windows系统，可以从Windows应用商店安装Windows Subsystem for Linux (WSL2)。
+如果使用Linux和Mac OS操作系统，可以直接在终端（Terminal）练习命令行的操作。如果使用Windows系统，可以从Windows应用商店安装Windows Subsystem for Linux (WSL)。
 
 > [使用 WSL 在 Windows 上安装 Linux](https://learn.microsoft.com/zh-cn/windows/wsl/install)
 
-我们的学习目的只是为了使用Linux运行一些专业的生物信息学软件，利用R或者python做数据分析，而不是成为专业的Linux系统管理员或者工程师，因此只需要有基本知识并了解常用的命令即可。相关的网络资源有很多，这里我们推荐：《Linux命令行大全-第二版》(The Linux Command Line, 2nd edition)。可以跟着教程快速过一遍，没有必要死记硬背，在电脑上多加练习即可。掌握怎么查询每个命令的使用方法（`cmd -h`;  `man cmd`;百度谷歌），以后需要的时候可以快速找到帮助，多用几次就熟悉了。
+我们的学习目的只是为了使用Linux运行一些专业的生物信息学软件，利用R或者python做数据分析，而不是成为专业的Linux系统管理员或者工程师，因此只需要有基本知识并了解常用的命令即可。相关的网络资源有很多，有一本不错的书叫《Linux命令行大全》(The Linux Command Line)，英文版作者提供可以免费下载的网络[PDF版本](https://linuxcommand.org/tlcl.php)。可以跟着教程快速过一遍，没有必要死记硬背，在电脑上多加练习即可。掌握怎么查询每个命令的使用方法（`cmd -h`;  `man cmd`;百度谷歌），以后需要的时候可以快速找到帮助，多用几次就熟悉了。
 
-> Linux常用命令自查清单：https://gitee.com/mt1022/bioinfo_tutorials/blob/master/basics/Linux.md
+> Linux常用命令自查清单：https://gitee.com/mt1022/bioinfo_tutorials/blob/master/basics/Linux/Linux.md
 
 登录远程Linux服务器的免费开源客户端：
 
-- Windows: [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=zh-cn&gl=CN), [tabby](https://tabby.sh/)
-- Mac OS: [iTerm2](https://iterm2.com/), [warp](https://www.warp.dev/)
+- Windows: [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=zh-cn&gl=CN)
+- Mac OS: [iTerm2](https://iterm2.com/)
 
 在大型公共Linux集群上提交任务需要学习[slurm](https://slurm.schedmd.com/overview.html)的客户端命令: `squeue/sinfo/srun/sbatch`等。
 
@@ -104,15 +104,14 @@ IDE推荐：[Visual Studio Code](https://code.visualstudio.com/),[Jupyter Lab](h
 机器学习
 
 - [**An Introduction to Statistical Learning**](https://www.statlearning.com/) （包含大量如何在R中实现的例子）
-- [**Dive into deep learning**](https://d2l.ai/) (pytorch版)
+- [**Deep Learning - Fundations and Concepts**](https://www.bishopbook.com/)
 
 除此之外，推荐这些书籍，可以作为补充学习的材料，也可以作为参考，需要时查阅： 
 
-- [**Deep Learning - Fundations and Concepts**](https://www.bishopbook.com/)
 - A Modern Introduction to Probability and Statistics: Understanding Why and How
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-[StatQuest](https://statquest.org/video-index/)的视频讲各类统计学的概念非常直观，而且简单易懂，强烈推荐。
+[StatQuest](https://statquest.org/video-index/)的视频讲各类统计学的概念非常直观，而且简单易懂。
 
 <br/>
 
@@ -120,7 +119,8 @@ IDE推荐：[Visual Studio Code](https://code.visualstudio.com/),[Jupyter Lab](h
 ##### 05. 分子细胞遗传基础
 
 - **Molecular Biology of the Cell** (7e, 2022)
-- 
+- **Essential Cell Biology** (6th, 2023) (上面那本书的精华版)
+
 如果你本科专业不是生物科学或生物技术，强烈建议阅读以上书籍快速了解相关的基础知识。即使你学的是相关专业，也可以通过本书获得更清晰的细胞内基本过程的图像。
 
 <br/>
